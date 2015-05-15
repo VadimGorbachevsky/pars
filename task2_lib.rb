@@ -1,3 +1,7 @@
+require 'mechanize'
+require 'date'
+require 'json'
+
 class String #FROZEN
   def hash #Расчет контрольной суммы
     code = 0
@@ -65,71 +69,38 @@ class Good
 	
 end
 
-class Extractor #FROZEN
+class GroupExtractor
   
-  	def getter_all(address)
-      uri = URI(address)	
-      resp = Net::HTTP.get_response(uri)
-      File.open("raw_data", "w") { |file| file.puts resp.body }
-    end
-  	
-end
-
-class GroupExtractor<Extractor #FROZEN
-  
-	def group_parser
+	def group_parser(address)
     
     hash_sums = IO.read("hash_file")
-  	raw_groups = File.open("raw_data", "r")
-  	final = File.open("groups", "a")
-		
-		string = raw_groups.gets
-		string = raw_groups.gets
-		
-		while !string.nil?
-      string.gsub!("\t\t\t\t\t\t\t<a href=", "")
-      if string.include?("<a data-href=\"/") then
-        collection = string.split("<a data-href=\"/")
-        collection.each do |string7|
-          string7.gsub!("<a data-href=\"", "")
-          string7.gsub!("\"", "")
-          string7.gsub!("<\/a>", "")
-          string7.gsub!("<\/div>", "")
-          string7.gsub!(" class=header", "")
-          string7.gsub!("\t", '')
-          string7.gsub!('</li', '')
-          string7.gsub!('<span class=count', '')
-          string7.gsub!('<div class=count', '')
-          string7.gsub!('<div class=title', '')
-          target = /([\d]{1,5}([\s]){1}([\S]){7})/
-          string7.gsub!(string7.scan(target)[0][0], "") unless string7.scan(target)[0].nil?
-          target = /([\d]{1,4}([\s]){1}([\S]){6})/
-          string7.gsub!(string7.scan(target)[0][0], "") unless string7.scan(target)[0].nil?
-            if string7.include?(">") then
-              properties_array = string7.split(">") 
-              group = Group.new(properties_array)
-              stream_hash = group.path.hash.to_s
-              if !hash_sums.include?(stream_hash) then
-                hash_sums += (" " + stream_hash)
-                final << group.to_s+"\n" if ( (group.to_s.count("/") <= 2) && (group.name != '') && (group.path != 'reduction') )
-                bufer = IO.read("memory")
-                bufer = bufer.split("\t")
-                bufer[1] = bufer[1].to_i
-                bufer[0] = group.id.to_i
-                file3 = File.open("memory", "w")
-                file3.puts bufer[0].to_s+"\t"+bufer[1].to_s
-                file3.close
-              end
-            end
-        end
+    final = File.open("groups", "a")
+    
+    agent = Mechanize.new
+    page  = agent.get(address)
+    p group_links = page.links_with(node: %r{[ data-href="]{1}})
+    p group_links.size
+    group_links.each do |e|
+      properties_array = []
+      properties_array[1] = e.text
+      properties_array[0] = e.node.attributes.to_s.split("\"")[5].to_s
+      group = Group.new(properties_array)
+      
+      stream_hash = group.path.hash.to_s
+      if !hash_sums.include?(stream_hash) then
+        hash_sums += (" " + stream_hash)
+        final << group.to_s+"\n"
+        bufer = IO.read("memory")
+        bufer = bufer.split("\t")
+        bufer[1] = bufer[1].to_i
+        bufer[0] = group.id.to_i
+        file3 = File.open("memory", "w")
+        file3.puts bufer[0].to_s+"\t"+bufer[1].to_s
+        file3.close
       end
-      string = raw_groups.gets
-		end
-		
-		File.open("hash_file", "w").puts hash_sums
-		File.delete("raw_data")
-	end
-	
+    end
+    File.open("hash_file", "w").puts hash_sums
+  end
 	
 	def detect_master_groups
     
@@ -160,113 +131,113 @@ class GroupExtractor<Extractor #FROZEN
   end
 	
 end
-
-class GoodsExtractor < Extractor
-  
-	def deep_group
-    bufer = nil
-		file = File.open("groups", "r") #MUSTFIX
-		string = file.gets
-		group = Group.new(file.gets.split("\t")) unless string.nil?
-      #while !string.nil?
-      3.times do
-      	good_parse(group) if group.parent_group_id.to_s.chomp != '0'
-      	string = file.gets
-      	group = Group.new(string.split("\t")) unless string.nil?
-      end
-	end	#end deeper
-	
-	def good_parse(group)
-		file2 = File.open(group.path.gsub("\/", '_'), "w")
-		@next = "1"
-
-	while @next != "thats all" #Пока страницы не кончились
-		
-		#Берем страницу и заливаем ее в файл
-		p link = @next != "1" ? ARGV[0]+"/"+group.path+"?page="+@next : ARGV[0]+"/"+group.path
-		getter_all(link.chomp)
-		
-		#Берем этот файл
-		file = File.open("raw_data", "r")
-		string = file.gets
-		
-		#Парсим его
-		next_exist = 0
-
-		
-		while !string.nil?
-			#Поиск адреса следующего листа, если он имеется.
-			if string.include?("<link rel=\"next\" href=\"/"+group.path+"?page=") then
-					string.gsub!("<link rel=\"next\" href=\"/"+group.path+"?page=", "")
-					string.gsub!("\" />", "")
-					@next = string
-					next_exist = 1
-			end
-			
-			#Поиск параметров товара	
-			if string.include?("catalog-product") then
-        properties_array = []
-        while !string.include?("bigpreview")
-          string = file.gets 
-        end
-        string = file.gets
-        string = file.gets
-        string.gsub!("\t", '')
-        string.gsub!("<img src=\"", '')
-        string.gsub!("\"", '')
-        string = string.split(" ")[0]
-        if string.include?(".jpg") then
-          uri = URI(string) unless File.exist?(string.split("\/")[-1])
-          resp = Net::HTTP.get_response(uri) unless File.exist?(string.split("\/")[-1])
-          File.open(string.split("\/")[-1], "w") { |img_file| img_file.puts resp.body } unless File.exist?(string.split("\/")[-1])
-          properties_array[2] = string.split("\/")[-1] + string.split("\/")[-3]
-          4.times{ string = file.gets }
-        else
-          properties_array[2] = ''
-          3.times{ string = file.gets }
-        end
-         # name
-        string.gsub!("\t", '')
-        string.gsub!("<a href=", '')
-        string.gsub!("</a>", '')
-        string.gsub!("</li>", '')
-        string.gsub!(" class=\"name\"", '')
-        properties_array[0] = string.split(">")[1].chomp
-        10.times{ string = file.gets }  #description - артефакт
-        string.gsub!("\t", '')
-        properties_array[1] = string
-        properties_array[3] = group.id
-        good = Good.new(properties_array)
-        hash_sums = IO.read("hash_file")
-        stream_hash = good.name.hash
-        if !hash_sums.include?(stream_hash.to_s)
-          file2.puts good
-          hash_sums += (" " + stream_hash.to_s)
-          bufer = IO.read("memory")
-          bufer = bufer.split("\t")
-          bufer[0] = bufer[0].to_i
-          bufer[1] = good.id.to_i
-          file3 = File.open("memory", "w")
-          file3.puts bufer[0].to_s+"\t"+bufer[1].to_s
-          file3.close  
-        end
-        File.open("hash_file", "w"){|f| f.puts hash_sums}
-        bufer = IO.read("memory")
-        bufer = bufer.split("\t")
-			end
-			#Взятие следующей
-			string = file.gets
-		end #end while
-		
-		
-		next_exist == 0 ? @next = "thats all" : ''
-  end #end lising while
-		file2.close
-		File.open("goods", "a") << IO.read(group.path.gsub("\/", '_')) 
-		File.delete(group.path.gsub("\/", '_'))
-	end #end parsing goods
-	
-end
+#
+#class GoodsExtractor
+#  
+#	def deep_group
+#    bufer = nil
+#		file = File.open("groups", "r") #MUSTFIX
+#		string = file.gets
+#		group = Group.new(file.gets.split("\t")) unless string.nil?
+#      #while !string.nil?
+#      3.times do
+#      	good_parse(group) if group.parent_group_id.to_s.chomp != '0'
+#      	string = file.gets
+#      	group = Group.new(string.split("\t")) unless string.nil?
+#      end
+#	end	#end deeper
+#	
+#	def good_parse(group)
+#		file2 = File.open(group.path.gsub("\/", '_'), "w")
+#		@next = "1"
+#
+#	while @next != "thats all" #Пока страницы не кончились
+#		
+#		#Берем страницу и заливаем ее в файл
+#		p link = @next != "1" ? ARGV[0]+"/"+group.path+"?page="+@next : ARGV[0]+"/"+group.path
+#		getter_all(link.chomp)
+#		
+#		#Берем этот файл
+#		file = File.open("raw_data", "r")
+#		string = file.gets
+#		
+#		#Парсим его
+#		next_exist = 0
+#
+#		
+#		while !string.nil?
+#			#Поиск адреса следующего листа, если он имеется.
+#			if string.include?("<link rel=\"next\" href=\"/"+group.path+"?page=") then
+#					string.gsub!("<link rel=\"next\" href=\"/"+group.path+"?page=", "")
+#					string.gsub!("\" />", "")
+#					@next = string
+#					next_exist = 1
+#			end
+#			
+#			#Поиск параметров товара	
+#			if string.include?("catalog-product") then
+#        properties_array = []
+#        while !string.include?("bigpreview")
+#          string = file.gets 
+#        end
+#        string = file.gets
+#        string = file.gets
+#        string.gsub!("\t", '')
+#        string.gsub!("<img src=\"", '')
+#        string.gsub!("\"", '')
+#        string = string.split(" ")[0]
+#        if string.include?(".jpg") then
+#          uri = URI(string) unless File.exist?(string.split("\/")[-1])
+#          resp = Net::HTTP.get_response(uri) unless File.exist?(string.split("\/")[-1])
+#          File.open(string.split("\/")[-1], "w") { |img_file| img_file.puts resp.body } unless File.exist?(string.split("\/")[-1])
+#          properties_array[2] = string.split("\/")[-1] + string.split("\/")[-3]
+#          4.times{ string = file.gets }
+#        else
+#          properties_array[2] = ''
+#          3.times{ string = file.gets }
+#        end
+#         # name
+#        string.gsub!("\t", '')
+#        string.gsub!("<a href=", '')
+#        string.gsub!("</a>", '')
+#        string.gsub!("</li>", '')
+#        string.gsub!(" class=\"name\"", '')
+#        properties_array[0] = string.split(">")[1].chomp
+#        10.times{ string = file.gets }  #description - артефакт
+#        string.gsub!("\t", '')
+#        properties_array[1] = string
+#        properties_array[3] = group.id
+#        good = Good.new(properties_array)
+#        hash_sums = IO.read("hash_file")
+#        stream_hash = good.name.hash
+#        if !hash_sums.include?(stream_hash.to_s)
+#          file2.puts good
+#          hash_sums += (" " + stream_hash.to_s)
+#          bufer = IO.read("memory")
+#          bufer = bufer.split("\t")
+#          bufer[0] = bufer[0].to_i
+#          bufer[1] = good.id.to_i
+#          file3 = File.open("memory", "w")
+#          file3.puts bufer[0].to_s+"\t"+bufer[1].to_s
+#          file3.close  
+#        end
+#        File.open("hash_file", "w"){|f| f.puts hash_sums}
+#        bufer = IO.read("memory")
+#        bufer = bufer.split("\t")
+#			end
+#			#Взятие следующей
+#			string = file.gets
+#		end #end while
+#		
+#		
+#		next_exist == 0 ? @next = "thats all" : ''
+#  end #end lising while
+#		file2.close
+#		File.open("goods", "a") << IO.read(group.path.gsub("\/", '_')) 
+#		File.delete(group.path.gsub("\/", '_'))
+#	end #end parsing goods
+#	
+#end
 
 class Statist
   def output
