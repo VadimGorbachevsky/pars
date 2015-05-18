@@ -1,0 +1,1323 @@
+5175	/sporting_goods	Спортивные товары	0
+5176	/sporting_goods/weightlifting	Тяжелая атлетика	7005
+5177	/sporting_goods/weightlifting/poyasa_dlya_tyajeloy_atletiki	Пояса для тяжелой атлетики	7006
+5178	/sporting_goods/weightlifting/atleticheskie_perchatki	Атлетические перчатки	7006
+5313	/avto/accumulators/zaryadnye_ustroystva_dlya_akkumulyatorov	Зарядные устройства для аккумуляторов	7142
+5241	/kitchen_appliance/large/poglotiteli_zapaha_dlya_holodilnika	Поглотители запаха для холодильника	7064
+5179	/sporting_goods/trainers/begovye_dorojki	Беговые дорожки	7005
+5180	/sporting_goods/trainers/sportivnye_skami	Спортивные скамьи	7005
+5181	/sporting_goods/airguns	Пневматическое оружие	7005
+5182	/sporting_goods/airguns/pnevmaticheskie_pistolety	Пневматические пистолеты	7011
+5183	/sporting_goods/airguns/pnevmaticheskie_vintovki	Пневматические винтовки	7011
+5184	/sporting_goods/airguns/puli_dlya_pnevmatiki	Пули для пневматики	7011
+5185	/sporting_goods/airguns/mehanicheskie_misheni	Механические мишени	7011
+5186	/sporting_goods/airguns/ballonchiki_co2	Баллончики CO2	7011
+5187	/sporting_goods/tennis	Большой теннис	7005
+5188	/sporting_goods/tennis/myachi_dlya_bolshogo_tennisa	Мячи для большого тенниса	7017
+5189	/sporting_goods/tennis/nabory_dlya_bolshogo_tennisa	Наборы для большого тенниса	7017
+5190	/sporting_goods/tennis/raketki_dlya_bolshogo_tennisa	Ракетки для большого тенниса	7017
+5191	/sporting_goods/martial_arts/perchatki_lapy_nakladki	Перчатки, лапы, накладки	7005
+5192	/sporting_goods/martial_arts/poyasa_dlya_kimono	Пояса для кимоно	7005
+5193	/sporting_goods/football/futbolnye_myachi	Футбольные мячи	7005
+5194	/sporting_goods/football/futbolnaya_forma	Футбольная форма	7005
+5195	/sporting_goods/ping_pong	Настольный теннис	7005
+5196	/sporting_goods/ping_pong/nabor_dlya_nastolnogo_tennisa	Наборы для настольного тенниса	7025
+5197	/sporting_goods/ping_pong/myachi_dlya_nastolnogo_tennisa	Мячи для настольного тенниса	7025
+5198	/sporting_goods/ping_pong/raketki_dlya_nastolnogo_tennisa	Ракетки для настольного тенниса	7025
+5199	/sporting_goods/ping_pong/setki_dlya_nastolnogo_tennisa	Сетки для настольного тенниса	7025
+5200	/sporting_goods/swimming/ochki_dlya_plavaniya	Очки для плавания	7005
+5201	/sporting_goods/swimming/maski_dlya_plavaniya	Маски для плавания	7005
+5202	/sporting_goods/swimming/shapochki_dlya_plavaniya	Шапочки для плавания	7005
+5203	/sporting_goods/bows_crossbows_slingshots	Луки, арбалеты, рогатки	7005
+5204	/sporting_goods/bows_crossbows_slingshots/strely_dlya_arbaleta	Стрелы для арбалета	7033
+5205	/sporting_goods/darts/nabory_dlya_dartsa	Наборы для дартса	7005
+5206	/sporting_goods/gym_and_aerobics	Гимнастика и аэробика	7005
+5207	/sporting_goods/gym_and_aerobics/gimnasticheskie_maty	Гимнастические маты	7036
+5208	/sporting_goods/gym_and_aerobics/kovriki_dlya_yogi	Коврики для йоги	7036
+5209	/sporting_goods/gym_and_aerobics/forma_legkoatleticheskaya	Форма легкоатлетическая	7036
+5210	/sporting_goods/basketball/basketbolnyy_myach	Баскетбольные мячи	7005
+5211	/sporting_goods/volleyball/voleybolnye_myachi	Волейбольные мячи	7005
+5212	/sporting_goods/volleyball/voleybolnaya_forma	Волейбольная форма	7005
+5213	/sporting_goods/cycle_racing/velosipednye_perchatki	Велосипедные перчатки	7005
+5214	/sporting_goods/cycle_racing/zamki_dlya_velosipedov	Замки для велосипедов	7005
+5215	/sporting_goods/cycle_racing/velosipednye_kamery	Велосипедные камеры	7005
+5216	/sporting_goods/cycle_racing/velosipednye_nasosy	Велосипедные насосы	7005
+5217	/sporting_goods/cycle_racing/velosipednye_vtulki	Велосипедные втулки	7005
+5218	/sporting_goods/cycle_racing/velosipednye_krylya	Велосипедные крылья	7005
+5219	/sporting_goods/badminton/setki_dlya_badmintona	Сетки для бадминтона	7005
+5220	/sporting_goods/badminton/volany_dlya_badmintona	Воланы для бадминтона	7005
+5221	/sporting_goods/badminton/raketki_dlya_badmintona	Ракетки для бадминтона	7005
+5222	/sporting_goods/measuring_devices	Измерительные устройства	7005
+5223	/sporting_goods/ice_skating	Конькобежный спорт	7005
+5224	/sporting_goods/ice_skating/kombinirovannye_konki	Комбинированные коньки	7053
+5225	/sporting_goods/ice_skating/konki_dlya_figurnogo_kataniya	Коньки для фигурного катания	7053
+5226	/sporting_goods/ice_skating/konki_progulochnye	Коньки прогулочные	7053
+5227	/sporting_goods/ice_skating/sumki_chehly_dlya_konkov	Сумки-чехлы для коньков	7053
+5228	/sporting_goods/hockey/hokkeynye_konki	Хоккейные коньки	7005
+5229	/sporting_goods/cross_country_skiing/begovye_lyji	Беговые лыжи	7005
+5230	/sporting_goods/cross_country_skiing/botinki_dlya_begovyh_lyj	Ботинки для беговых лыж	7005
+5231	/sporting_goods/cross_country_skiing/palki_dlya_begovyh_lyj	Палки для беговых лыж	7005
+5232	/sporting_goods/sports_awards	Спортивные награды	7005
+5233	/kitchen_appliance	Товары для кухни	0
+5234	/kitchen_appliance/large	Крупная техника	7063
+5235	/kitchen_appliance/large/elektricheskie_plity	Электрические плиты	7064
+5236	/kitchen_appliance/large/gazovye_plity	Газовые плиты	7064
+5237	/kitchen_appliance/large/posudomoechnye_mashiny	Посудомоечные машины	7064
+5238	/kitchen_appliance/large/kulery_dlya_vody	Кулеры для воды	7064
+5239	/kitchen_appliance/large/sredstva_dlya_posudomoechnyh_mashin	Средства для посудомоечных машин	7064
+5240	/kitchen_appliance/large/uhod_za_kuhonnoy_tehnikoy	Товары по уходу за кухонной техникой	7064
+5242	/kitchen_appliance/large/sredstva_dlya_chistki_holodilnikov	Средства для чистки холодильников	7064
+5243	/kitchen_appliance/large/dispensery_dlya_vody	Диспенсеры для воды	7064
+5244	/kitchen_appliance/small	Мелкая техника	7063
+5245	/kitchen_appliance/small/mikrovolnovye_pechi	Микроволновые печи	7074
+5246	/kitchen_appliance/small/kuhonnye_kombayny	Кухонные комбайны	7074
+5247	/kitchen_appliance/small/aksessuary_dlya_multivarok	Аксессуары для мультиварок	7074
+5248	/kitchen_appliance/small/sushilki_dlja_ovoshhejj_fruktov_gribov	Сушилки для овощей, фруктов, грибов	7074
+5249	/kitchen_appliance/small/kronshtejjny_dlja_mikrovolnovykh_pechejj	Кронштейны для микроволновых печей	7074
+5250	/kitchen_appliance/kitchen_grills	Кухонные грили	7063
+5251	/kitchen_appliance/kitchen_grills/electricheskie_grili	Электрические грили	7080
+5252	/kitchen_appliance/tea_and_coffee	Чай и кофе	7063
+5253	/kitchen_appliance/tea_and_coffee/elektricheskie_chayniki	Электрические чайники	7082
+5254	/kitchen_appliance/tea_and_coffee/kapsuly_dlya_kofemashin	Капсулы для кофемашин	7082
+5255	/kitchen_appliance/tea_and_coffee/chistka_kofe_mashin	Средства для чистки кофе-машин	7082
+5257	/kitchen_appliance/crockery/nabory_posudy	Наборы посуды	7063
+5258	/kitchen_appliance/crockery/kuhonnye_noji	Кухонные ножи и ножницы	7063
+5259	/kitchen_appliance/crockery/posuda_dlya_vypechki	Посуда для выпечки	7063
+5260	/kitchen_appliance/crockery/tarelki	Тарелки и наборы тарелок	7063
+5261	/kitchen_appliance/crockery/stolovye_pribory	Столовые приборы	7063
+5262	/kitchen_appliance/crockery/posuda_dlya_servirovki	Посуда для сервировки	7063
+5263	/kitchen_appliance/crockery/krujki	Кружки и наборы кружек	7063
+5264	/kitchen_appliance/crockery/bokaly_stakany_ryumki	Бокалы, стаканы, рюмки	7063
+5265	/kitchen_appliance/crockery/kuvshiny_grafiny	Кувшины и графины	7063
+5266	/kitchen_appliance/juices_and_yogurts	Соки и йогурты	7063
+5267	/kitchen_appliance/goods	Кухонные товары	7063
+5268	/kitchen_appliance/goods/kukhonnye_vesy	Кухонные весы	7097
+5270	/kitchen_appliance/goods/pompy_dlja_vody	Помпы для воды	7097
+5271	/kitchen_appliance/goods/kukhonnye_prinadlezhnosti	Кухонные принадлежности	7097
+5272	/kitchen_appliance/goods/kontejjnery	Хранение продуктов	7097
+5273	/kitchen_appliance/goods/sifony_dlja_gazirovanija_vody	Сифоны для газирования воды	7097
+5274	/kitchen_appliance/goods/gubki_dlja_posudy	Губки для мытья посуды	7097
+5275	/kitchen_appliance/goods/reylingovye_sistemy	Рейлинговые системы	7097
+5276	/kitchen_appliance/goods/nastolnye_sushilki_dlya_posudy	Настольные сушилки для посуды	7097
+5277	/kitchen_appliance/parties	Техника для вечеринок	7063
+5278	/kitchen_appliance/parties/fondju	Наборы для фондю	7107
+5279	/kitchen_appliance/parties/shokoladnye_fontany	Шоколадные фонтаны	7107
+5280	/kitchen_appliance/parties/apparaty_dlya_saharnoy_vaty	Аппараты для сахарной ваты	7107
+5281	/avto	Авто и мото	0
+5282	/avto/tires_and_wheels	Шины и диски	7111
+5283	/avto/tires_and_wheels/kolesnie_disky	Колесные диски	7112
+5284	/avto/tires_and_wheels/krepej_diskov	Крепеж дисков	7112
+5285	/avto/autosound/koaksialnaya_avtoakustika	Коаксиальная автоакустика	7111
+5286	/avto/autosound/avtomobilnye_usiliteli	Автомобильные усилители	7111
+5287	/avto/autosound/komponentnaya_avtoakustika	Компонентная автоакустика	7111
+5288	/avto/autosound/shtatnye_golovnye_ustroystva	Штатные головные устройства	7111
+5289	/avto/autosound/avtomobilnye_antenny	Автомобильные антенны	7111
+5290	/avto/autosound/tvitery	Твитеры (ВЧ-динамики)	7111
+5291	/avto/autosound/avto_audio_kabeli	Авто аудио кабели	7111
+5292	/avto/autosound/pulty_dlja_avtomagnitol	Пульты для автомагнитол	7111
+5293	/avto/autosound/shirokopolosnaya_akustika	Широкополосная акустика	7111
+5294	/avto/autosound/midbasy	Мидбасы (НЧ-динамики)	7111
+5295	/avto/autosound/srednechastotnaya_avtoakustika	Среднечастотная автоакустика	7111
+5296	/avto/autosound/korpusnaya_avtoakustika	Корпусная автоакустика	7111
+5297	/avto/alarm/breloki_signalizacij	Брелоки для сигнализаций	7111
+5298	/avto/alarm/gsm_gsp_sistemy_ohrany	GSM и GPS системы охраны	7111
+5299	/avto/alarm/avtomobilnye_sireny	Автомобильные сирены	7111
+5300	/avto/car_wash	Автомойки и пылесосы	7111
+5301	/avto/car_wash/nasadki_dlya_avtomoek	Насадки для автомоек	7130
+5302	/avto/car_wash/shlangi_dlya_avtomoek	Шланги для автомоек	7130
+5303	/avto/autolights/avtolampy	Автомобильные лампы	7111
+5304	/avto/autolights/dnevnye_hodovye_ogni	Дневные ходовые огни	7111
+5306	/avto/autolights/bloki_rozjiga	Блоки розжига	7111
+5307	/avto/autolights/fary_dalnego_sveta	Фары дальнего света	7111
+5308	/avto/autolights/fary_blijnego_sveta	Фары ближнего света	7111
+5309	/avto/autolights/gabaritnye_ogni	Габаритные огни	7111
+5310	/avto/auto_heat/avtomobilnye_odeyala	Автомобильные одеяла	7111
+5311	/avto/auto_heat/obogrev_sidenijj	Подогрев сидений	7111
+5312	/avto/accumulators	Аккумуляторы и зарядные устройства	7111
+5314	/avto/accumulators/akkumuljatory	Автомобильные аккумуляторы	7142
+5315	/avto/accumulators/klemmy_na_akkumulyatory	Клеммы на аккумуляторы	7142
+5316	/avto/auto_electronics/kamery_zadnego_vida	Камеры заднего вида	7111
+5317	/avto/auto_electronics/avtomobilnye_derjateli	Автомобильные держатели	7111
+5318	/avto/auto_electronics/bortovye_kompjutery	Бортовые компьютеры	7111
+5319	/avto/auto_electronics/razvetviteli_prikurivatelejj	Разветвители прикуривателя	7111
+5320	/avto/auto_accessories/avto_kompressory	Автомобильные компрессоры	7111
+5321	/avto/auto_accessories/avto_kovriki	Автомобильные коврики	7111
+5322	/avto/auto_accessories/shhetki_stekloochistitelja	Щетки стеклоочистителя	7111
+5323	/avto/auto_accessories/avtomobilnye_manometry	Автомобильные манометры	7111
+5324	/avto/auto_accessories/zashhita_kartera	Защита картера	7111
+5325	/avto/auto_accessories/zaschitnyy_chehol_tent	Защитные чехлы-тенты	7111
+5326	/avto/auto_accessories/avtomobilnye_chehly	Автомобильные чехлы	7111
+5327	/avto/auto_accessories/opletki_na_rul	Оплетки на руль	7111
+5328	/avto/auto_accessories/avtomobilnye_podkrylki	Автомобильные подкрылки	7111
+5329	/avto/car_oil	Автомобильные масла	7111
+5330	/avto/car_oil/motornye_masla	Моторные масла	7159
+5331	/avto/car_oil/transmissionnye_masla	Трансмиссионные масла	7159
+5332	/audio_video	Аудио, видео	0
+5333	/audio_video/projectors	Проекционное оборудование	7162
+5334	/audio_video/projectors/proektory	Мультимедиа проекторы	7163
+5335	/audio_video/projectors/ekrany_dlya_proektorov	Экраны для проекторов	7163
+5336	/audio_video/projectors/kronshteyny_dlya_proektorov	Кронштейны для проекторов	7163
+5337	/audio_video/projectors/interaktivnye_doski	Интерактивные доски	7163
+5338	/audio_video/projectors/magnitno_markernye_doski	Магнитно-маркерные доски	7163
+5339	/audio_video/gaming_consoles	Игровые приставки и игры	7162
+5340	/audio_video/gaming_consoles/igrovye_pristavki	Игровые приставки	7169
+5341	/audio_video/gaming_consoles/portativnye_igrovye_pristavki	Портативные игровые приставки	7169
+5342	/audio_video/gaming_consoles/igry_dlya_xbox	Игры для Xbox	7169
+5343	/audio_video/gaming_consoles/igry_dlya_pc	Игры для PC	7169
+5344	/audio_video/gaming_consoles/igry_dlya_sony_playstation	Игры для Sony PlayStation	7169
+5345	/audio_video/gaming_consoles/igrovye_aksessuary	Игровые аксессуары	7169
+5346	/audio_video/gaming_consoles/igry_dlya_nintendo	Игры для Nintendo	7169
+5347	/audio_video/gaming_consoles/karty_podpiski	Карты подписки	7169
+5348	/audio_video/music_players	Музыкальные плееры	7162
+5349	/audio_video/music_players/chehly_dlya_mp3_pleerov	Чехлы для MP3-плееров	7178
+5350	/audio_video/music_players/plenki_dlya_mp3_pleerov	Пленки для MP3-плееров	7178
+5351	/audio_video/audio	Акустика и аудиосистемы	7162
+5352	/audio_video/audio/muzykalnye_centry	Музыкальные центры	7181
+5353	/audio_video/audio/portativnaya_akustika	Портативная акустика	7181
+5354	/audio_video/audio/usiliteli_resivery	Усилители и ресиверы	7181
+5355	/audio_video/audio/zvukovye_paneli	Звуковые панели	7181
+5356	/audio_video/audio/domashnie_kinoteatry	Домашние кинотеатры	7181
+5357	/audio_video/audio/sabvufery	Домашние сабвуферы	7181
+5358	/audio_video/audio/vstraivaemaya_akustika	Встраиваемая акустика	7181
+5359	/audio_video/audio/kronshteyny_dlya_audio_tehniki	Кронштейны для аудио техники	7181
+5361	/audio_video/audio/stoyki_dlya_audio	Стойки для аудио техники	7181
+5362	/audio_video/video_players/dvdpleery	DVD плееры	7162
+5363	/audio_video/video_players/blu_ray_pleery	Blu-ray плееры	7162
+5364	/audio_video/tv	Телевизоры и кронштейны	7162
+5365	/audio_video/tv/kronshteyny_dlya_tv	Кронштейны для телевизоров	7194
+5366	/audio_video/tv/tumby_dlya_televizorov	Тумбы под телевизор	7194
+5367	/audio_video/tv/pulty_dlya_televizorov	Пульты для телевизоров	7194
+5368	/audio_video/tv/stojjki_dlja_tv	Стойки для телевизоров	7194
+5369	/audio_video/television	Цифровое и спутниковое ТВ	7162
+5370	/audio_video/television/televizionnye_antenny	Телевизионные антенны	7199
+5371	/audio_video/television/sputnikovoe_televidenie	Комплекты спутникового телевидения	7199
+5372	/audio_video/cameras	Видео и экшн камеры	7162
+5373	/audio_video/cameras/akkumulyatory_dlya_videokamer	Аккумуляторы для видеокамер	7202
+5374	/audio_video/cameras/sumki_dlja_videokamer	Сумки для видеокамер	7202
+5375	/built_in	Встраиваемая техника	0
+5376	/built_in/dukhovye_shkafy	Духовые шкафы	7205
+5377	/built_in/varochnye_poverkhnosti	Варочные поверхности	7205
+5378	/built_in/posudomoechnye_mashiny	Встраиваемые посудомоечные машины	7205
+5379	/built_in/build_in_refrigerators	Встраиваемые холодильники	7205
+5380	/built_in/svch_pechi	Встраиваемые микроволновые печи	7205
+5381	/built_in/stiral_nye_mashiny	Встраиваемые стиральные машины	7205
+5382	/built_in/komplekty	Комплекты встраиваемой техники	7205
+5383	/built_in/filters	Фильтры для вытяжек	7205
+5384	/built_in/kofemashiny	Встраиваемые кофемашины	7205
+5385	/built_in/sredstva_dlja_chistki_varochnykh_poverkhnostejj	Средства для чистки варочных поверхностей	7205
+5386	/built_in/household_disposers	Измельчители бытовых отходов	7205
+5387	/built_in/steamers	Встраиваемые пароварки	7205
+5388	/built_in/ramki_dlja_vytjazhek	Рамки для вытяжек	7205
+5389	/household_appliances	Товары для дома	0
+5390	/household_appliances/ironing	Утюги и гладильные системы	7219
+5391	/household_appliances/ironing/gladilnie_doski	Гладильные доски	7220
+5392	/household_appliances/ironing/aksessuary_dlj_utjugov	Аксессуары для утюгов	7220
+5393	/household_appliances/ironing/gladilnye_pressy	Гладильные прессы	7220
+5394	/household_appliances/ironing/chekhli_dlja_gladilnykh_dosok	Чехлы для гладильных досок	7220
+5395	/household_appliances/ironing/gladilnye_sistemy	Гладильные системы	7220
+5396	/household_appliances/ironing/stendy_pod_gladilnye_pressy	Стенды под гладильные прессы	7220
+5397	/household_appliances/steamers	Отпариватели и парогенераторы	7219
+5398	/household_appliances/steamers/parovye_shvabry	Паровые швабры	7227
+5399	/household_appliances/cleaners	Пылесосы и роботы-пылесосы	7219
+5400	/household_appliances/cleaners/filtry_dlja_pylesosov	Фильтры для пылесосов	7229
+5401	/household_appliances/cleaners/nasadki_dlja_pylesosov	Насадки для пылесосов	7229
+5402	/household_appliances/cleaners/mojushhie_sredstva_dlja_pylesosov	Моющие средства для пылесосов	7229
+5403	/household_appliances/sewing	Швейное оборудование	7219
+5404	/household_appliances/sewing/shvejjnye_mashiny	Швейные машины	7233
+5405	/household_appliances/lighting/nastolnye_lampy	Настольные лампы	7219
+5406	/household_appliances/lighting/prazdnichnyi_svet	Праздничный свет	7219
+5408	/household_appliances/video_monitoring/sistemy_videonabljudenija	Системы видеонаблюдения	7219
+5409	/household_appliances/presents	Сувениры и подарки	7219
+5410	/household_appliances/presents/samogonnye_apparaty	Самогонные аппараты	7239
+5411	/household_appliances/homeware	Домашние товары	7219
+5412	/household_appliances/homeware/mashinki_dlja_udalenija_katyshkov	Машинки для удаления катышков	7241
+5413	/household_appliances/homeware/vedra_dlya_doma	Ведра для дома	7241
+5414	/household_appliances/homeware/korziny_i_korobki	Корзины и коробки	7241
+5415	/household_appliances/homeware/dvernye_zamki	Дверные замки	7241
+5416	/household_appliances/homeware/elektronnye_lupy	Электронные лупы	7241
+5417	/household_appliances/new_year	Новогодние украшения	7219
+5418	/household_appliances/new_year/novogodnie_jolki	Новогодние ёлки	7247
+5419	/household_appliances/new_year/elochnye_igrushki	Ёлочные игрушки	7247
+5420	/household_appliances/home_textiles	Домашний текстиль	7219
+5421	/household_appliances/home_textiles/komplekty_postelnogo_belya	Комплекты постельного белья	7250
+5422	/household_appliances/home_textiles/pledy_pokryvala	Пледы и покрывала	7250
+5423	/household_appliances/shaving	Бритвы и эпиляторы	7219
+5424	/household_appliances/shaving/aksessuary_dlya_britv	Аксессуары для бритв	7253
+5425	/household_appliances/toothbrushes	Зубные щетки	7219
+5426	/household_appliances/toothbrushes/elektricheskie_zubnye_shhetki	Электрические зубные щетки	7255
+5427	/household_appliances/toothbrushes/nasadki_dlja_zubnykh_shhetok	Насадки для зубных щеток	7255
+5428	/household_appliances/haircare	Уход за волосами	7219
+5429	/household_appliances/haircare/mashinki_dlya_strijki	Машинки для стрижки	7258
+5430	/household_appliances/haircare/nabory_dlya_ukladki	Наборы для укладки	7258
+5431	/household_appliances/haircare/mnogofunkcionalnoe_ustroystva_dlya_ukladki	Многофункциональные устройства для укладки	7258
+5432	/household_appliances/health_and_beauty	Красота и здоровье	7219
+5433	/household_appliances/health_and_beauty/massajnye_vannochki_dlya_nog	Массажные ванночки для ног	7262
+5434	/household_appliances/health_and_beauty/parovye_sauny_dlya_lica	Паровые сауны для лица	7262
+5435	/household_appliances/health_and_beauty/manikyurnye_nabory	Маникюрные наборы	7262
+5436	/household_appliances/health_and_beauty/elektricheskie_manikyurnye_nabory	Электрические маникюрные наборы	7262
+5437	/household_appliances/health_and_beauty/ruchnye_massajery	Ручные массажеры	7262
+5438	/household_appliances/washing	Стирка и сушка	7219
+5439	/household_appliances/washing/stiralnye_mashiny	Стиральные машины	7268
+5440	/household_appliances/washing/sushilki_dlya_belya	Сушилки для белья	7268
+5441	/household_appliances/washing/sushilnye_mashiny	Сушильные машины	7268
+5442	/household_appliances/washing/stiralnye_poroshki	Стиральные порошки	7268
+5443	/household_appliances/washing/aksessuary_dlya_stiralnyh_mashin	Аксессуары для стиральных машин	7268
+5444	/household_appliances/washing/sushilki_dlya_obuvi	Сушилки для обуви	7268
+5445	/household_appliances/coupons	Купоны и сертификаты	7219
+5446	/household_appliances/coupons/ustanovka_bytovojj_tekhniki	Купоны на подключение	7275
+5448	/household_appliances/watch/naruchnye_chasy	Наручные часы	7219
+5450	/household_appliances/watch/nastolnye_chasy	Настольные часы	7219
+5451	/household_appliances/watch/karmannye_chasy	Карманные часы	7219
+5452	/kids	Детские товары	0
+5453	/kids/child_car_seats_and_strollers	Детские автокресла и коляски	7282
+5454	/kids/child_car_seats_and_strollers/avtomobilnye_kresla	Детские автокресла	7283
+5455	/kids/child_car_seats_and_strollers/sumki_dlja_koljasok	Сумки для колясок	7283
+5456	/kids/baby_cribs	Кроватки для детей	7282
+5457	/kids/baby_cribs/detskie_krovatki	Детские кроватки	7286
+5459	/kids/baby_cribs/detskie_matrasy	Детские матрасы	7286
+5460	/kids/baby_cribs/bortiki_v_krovatku	Бортики в кроватку	7286
+5461	/kids/furniture_and_accessories	Мебель и аксессуары	7282
+5462	/kids/furniture_and_accessories/stulchiki_dlya_kormleniya	Стульчики для кормления	7291
+5463	/kids/furniture_and_accessories/pelenalnye_stoly_i_komody	Пеленальные столы и комоды	7291
+5465	/kids/furniture_and_accessories/detskie_nastolnye_svetilniki	Детские настольные светильники	7291
+5466	/kids/furniture_and_accessories/detskie_mjagkie_kresla	Детские мягкие кресла	7291
+5468	/kids/furniture_and_accessories/detskie_taburety	Детские табуреты	7291
+5469	/kids/furniture_and_accessories/jashhiki_i_korziny_dlja_igrushek	Ящики и корзины для игрушек	7291
+5470	/kids/furniture_and_accessories/detskie_stoliki	Детские столики	7291
+5471	/kids/furniture_and_accessories/detskie_nastennye_svetilniki	Детские настенные светильники	7291
+5472	/kids/furniture_and_accessories/detskie_magnitno_markernye_doski	Детские магнитно маркерные доски	7291
+5473	/kids/goods_for_newborns	Товары для новорожденных	7282
+5474	/kids/goods_for_newborns/radio_i_videonyani	Радио- и видеоняни	7303
+5475	/kids/goods_for_newborns/detskaja_posuda_dlja_kormlenija	Детская посуда для кормления	7303
+5476	/kids/goods_for_newborns/komplekty_i_konverty_na_vypisku	Комплекты и конверты на выписку	7303
+5477	/kids/goods_for_newborns/butylochki_dlja_kormlenija	Бутылочки для кормления	7303
+5478	/kids/goods_for_newborns/detskie_gorshki	Детские горшки	7303
+5479	/kids/goods_for_newborns/detskoe_pitanie	Детское питание	7303
+5480	/kids/goods_for_newborns/soski_i_pustyshki	Пустышки и соски	7303
+5481	/kids/goods_for_newborns/vannochki_dlja_kupanija	Ванночки для купания	7303
+5482	/kids/goods_for_newborns/vesy_detskie	Детские весы	7303
+5483	/kids/goods_for_newborns/gorki_dlja_kupanija	Горки для купания	7303
+5484	/kids/goods_for_newborns/detskie_vlazhnye_salfetki	Детские влажные салфетки	7303
+5485	/kids/goods_for_newborns/perenoski_dlja_novorozhdennykh	Переноски для новорожденных	7303
+5486	/kids/goods_for_newborns/spalnye_meshki_dlya_detey	Спальные мешки для детей	7303
+5487	/kids/goods_for_newborns/detskie_ryukzaki_perenoski	Детские рюкзаки переноски	7303
+5488	/kids/baby_complexes	Детские комплексы	7282
+5489	/kids/baby_complexes/igrovye_kompleksy	Игровые комплексы	7318
+5491	/kids/baby_complexes/brusya_dlya_dsk	Брусья для ДСК	7318
+5492	/kids/baby_complexes/ulichnye_detskie_sportivnye_kompleksy	Уличные детские спортивные комплексы	7318
+5493	/kids/children_transport	Детский транспорт	7282
+5494	/kids/children_transport/velosipedy_dlja_malyshejj	Велосипеды для малышей	7323
+5495	/kids/children_transport/sanki	Санки и снегокаты	7323
+5496	/kids/children_transport/detskie_ehlektromobili	Детские электромобили	7323
+5497	/kids/children_transport/detskie_velosipedy	Детские велосипеды	7323
+5498	/kids/children_transport/rolikovye_konki	Роликовые коньки	7323
+5499	/kids/dolls	Куклы и наборы для кукол	7282
+5500	/kids/dolls/nabory_dlja_kukol	Игровые наборы для кукол	7329
+5501	/kids/dolls/koljaski_dlja_kukol	Коляски для кукол	7329
+5503	/kids/dolls/odezhda_dlja_kukol	Одежда для кукол	7329
+5504	/kids/toys/mjagkie_igrushki	Мягкие игрушки	7282
+5505	/kids/toys/rezinovye_igrushki	Резиновые игрушки	7282
+5506	/kids/toys/igrushechnoe_oruzhie	Игрушечное оружие	7282
+5507	/kids/toys/detskie_muzykal_nye_instrumenty	Детские музыкальные инструменты	7282
+5508	/kids/toys/naduvnye_igrushki	Надувные игрушки	7282
+5509	/kids/toys/podvizhnye_igry	Подвижные игры	7282
+5510	/kids/toys/myl_nye_puzyri	Мыльные пузыри	7282
+5511	/kids/toys/zavodnye_igrushki	Заводные игрушки	7282
+5512	/kids/toys/nabory_dlja_pesochnicy	Наборы для песочницы	7282
+5513	/kids/school_goods	Товары для школы	7282
+5514	/kids/school_goods/shkolnye_rancy	Школьные ранцы, сумки и рюкзаки	7343
+5515	/kids/school_goods/shkolnye_penaly	Школьные пеналы	7343
+5516	/kids/school_goods/detskie_braslety_bezopasnosti	Детские браслеты безопасности	7343
+5517	/kids/educational_games	Развивающие игры	7282
+5518	/kids/educational_games/razvivajushhie_igrushki	Развивающие игрушки	7347
+5519	/kids/educational_games/nabory_kubikov	Наборы кубиков	7347
+5520	/kids/educational_games/opyty	Опыты и исследования	7347
+5521	/kids/hobbies	Хобби и настольные игры	7282
+5522	/kids/hobbies/nastolnye_igry	Настольные игры	7351
+5523	/kids/hobbies/nabory_dlja_tvorchestva	Наборы для творчества	7351
+5524	/kids/hobbies/sbornye_masshtabnye_modeli	Сборные масштабные модели	7351
+5525	/kids/toy_trucks	Игрушечный транспорт	7282
+5526	/kids/toy_trucks/zheleznye_dorogi	Железные дороги	7355
+5527	/kids/toy_trucks/dorojnye_soorujeniya	Дорожные сооружения	7355
+5528	/kids/toys_on_remote_control	Игрушки на дистанционном управлении	7282
+5530	/kids/toys_on_remote_control/provodnoe_upravlenie	Игрушки на проводном управлении	7358
+5531	/kids/pretend_play	Сюжетно-ролевые игры	7282
+5532	/kids/pretend_play/sjuzhetno_rolevye_igry	Наборы сюжетно-ролевых игр	7361
+5533	/kids/pretend_play/igrushechnaja_bytovaja_tekhnika	Игрушечная бытовая техника	7361
+5534	/kids/pretend_play/igrushechnaja_posuda	Игрушечная посуда	7361
+5535	/kids/pretend_play/igrushechnaja_eda	Игрушечная еда	7361
+5536	/kids/pretend_play/detskie_karnavalnye_kostyumy	Детские карнавальные костюмы	7361
+5538	/sanitary_engineering/faucets/dushevye_stojjki	Душевые стойки	5975
+5539	/sanitary_engineering/faucets/dushevye_lejjki	Душевые лейки	5975
+5540	/sanitary_engineering/faucets/dushevye_shlangi	Душевые шланги	5975
+5541	/sanitary_engineering/faucets/derzhateli_dlja_dusha	Держатели для душа	5975
+5542	/sanitary_engineering/faucets/lejjki_dlja_bide	Лейки для биде	5975
+5543	/sanitary_engineering/faucets/podvodka	Подводка для воды	5975
+5544	/sanitary_engineering/faucets/lejjki_dlja_smesitelejj	Лейки для смесителей	5975
+5545	/sanitary_engineering/baths	Ванны и фурнитура	5975
+5546	/sanitary_engineering/baths/ehkrany	Экраны для ванн	7375
+5547	/sanitary_engineering/baths/nozhki_dlja_vann	Ножки для ванн	7375
+5548	/sanitary_engineering/baths/dushevye_ograzhdenija_dlja_vann	Душевые ограждения для ванн	7375
+5549	/sanitary_engineering/baths/ruchki_dlja_vann	Ручки для ванн	7375
+5550	/sanitary_engineering/baths/podgolovniki_dlja_vann	Подголовники для ванн	7375
+5551	/sanitary_engineering/baths/krepej_dlya_montaja_vanny	Крепеж для монтажа ванны	7375
+5554	/sanitary_engineering/shower_enclosures/ehkrany_dlja_poddonov	Экраны для поддонов	5975
+5555	/sanitary_engineering/shower_enclosures/ograzhdenija_dlja_poddonov	Душевые ограждения для поддонов	5975
+5556	/sanitary_engineering/sinks_and_wash	Раковины и мойки	5975
+5558	/sanitary_engineering/sinks_and_wash/krepej_dlya_rakoviny	Крепеж для раковины	7386
+5559	/sanitary_engineering/sanfayans	Унитазы, писсуары, биде	5975
+5560	/sanitary_engineering/sanfayans/kryshki_sidenja_dlja_unitazov	Крышки-сиденья для унитазов	7389
+5561	/sanitary_engineering/sanfayans/bachki_dlja_unitazov	Бачки для унитазов	7389
+5562	/sanitary_engineering/sanfayans/krepej_dlya_sanfayansa	Крепеж для монтажа санфаянса	7389
+5563	/sanitary_engineering/sanfayans/kryshki_sidenja_dlja_bide	Крышки-сиденья для биде	7389
+5564	/sanitary_engineering/installation_systems/installjacii	Системы инсталляции	5975
+5565	/sanitary_engineering/installation_systems/knopki_dlja_installjacii	Клавиши для систем инсталляции	5975
+5566	/sanitary_engineering/installation_systems/krepej_dlya_sistem_installyacii	Крепеж для систем инсталляции	5975
+5567	/sanitary_engineering/towel_warmers	Полотенцесушители и держатели	5975
+5568	/sanitary_engineering/bathroom_accessories	Принадлежности для ванной комнаты	5975
+5569	/sanitary_engineering/bathroom_accessories/shtorki_dlja_vannojj	Шторки для ванной	7398
+5570	/sanitary_engineering/bathroom_accessories/korziny_dlja_belja	Корзины для белья	7398
+5571	/sanitary_engineering/bathroom_accessories/kovriki_dlja_vann	Коврики для ванной	7398
+5572	/sanitary_engineering/bathroom_accessories/derzhateli_dlja_tualetnojj_bumagi	Держатели для туалетной бумаги	7398
+5573	/sanitary_engineering/bathroom_accessories/ershiki_dlja_unitaza	Ершики для унитаза	7398
+5574	/sanitary_engineering/bathroom_accessories/dozatory_dlja_zhidkogo_myla	Дозаторы для жидкого мыла	7398
+5575	/sanitary_engineering/bathroom_accessories/stakany_dlya_vannoy	Стаканы для ванной комнаты	7398
+5576	/sanitary_engineering/bathroom_accessories/musornye_vedra	Мусорные ведра	7398
+5577	/sanitary_engineering/bathroom_accessories/karnizy_dlja_vannojj	Карнизы для ванной	7398
+5578	/sanitary_engineering/bathroom_accessories/sushilki_dlya_ruk	Сушилки для рук	7398
+5579	/sanitary_engineering/bathroom_accessories/zhidkoe_mylo	Жидкое мыло	7398
+5580	/sanitary_engineering/bathroom_accessories/dvoinie_derzhateli	Двойные держатели для ванных принадлежностей	7398
+5581	/sanitary_engineering/bathroom_accessories/derzhateli_dlja_fena	Держатели для фена	7398
+5582	/sanitary_engineering/bathroom_accessories/dispensery_dlja_salfetok	Диспенсеры для салфеток	7398
+5583	/sanitary_engineering/bathroom_accessories/feny_nastennye	Фены настенные	7398
+5584	/sanitary_engineering/water_supply/schetchik_vody	Счетчики воды	5975
+5585	/sanitary_engineering/plumbing_fitting	Установка сантехники	5975
+5586	/sanitary_engineering/plumbing_fitting/kupony_santehniki	Купоны на установку сантехники	7415
+5587	/garden_cottage	Сад, дача, огород	0
+5588	/garden_cottage/snow_removal	Уборка снега	7417
+5589	/garden_cottage/snow_removal/lopaty_dlya_snega	Лопаты для уборки снега	7418
+5590	/garden_cottage/lawn_care	Уход за газоном	7417
+5591	/garden_cottage/lawn_care/aksessuary_dlja_trimmerov	Аксессуары для триммеров	7420
+5592	/garden_cottage/watering_equipment	Поливочное оборудование	7417
+5593	/garden_cottage/watering_equipment/polivichnie_shlangi	Поливочные шланги	7422
+5594	/garden_cottage/watering_equipment/shlangi_ldya_skvajin	Шланги для скважин	7422
+5595	/garden_cottage/hand_garden_tools	Ручной садовый инструмент	7417
+5596	/garden_cottage/hand_garden_tools/tachki	Садовые тачки	7425
+5598	/garden_cottage/garden_blowers/elektricheskie_vozduhoduvki	Электрические воздуходувки	7417
+5599	/garden_cottage/garden_blowers/benzinovye_vozduhoduvki	Бензиновые воздуходувки	7417
+5600	/garden_cottage/greenhouses	Парники и теплицы	7417
+5601	/garden_cottage/pools/karkasnye_basseyny	Каркасные бассейны	7417
+5602	/garden_cottage/pools/naduvnye_basseyny	Надувные бассейны	7417
+5604	/garden_cottage/pools/himiya_dlya_basseynov	Химия для бассейнов	7417
+5605	/garden_cottage/pools/dozatory_dlya_basseynov	Дозаторы для бассейнов	7417
+5606	/garden_cottage/pools/kovry_dlya_basseynov	Ковры для бассейнов	7417
+5607	/garden_cottage/pools/lestnicy_dlya_basseynov	Лестницы для бассейнов	7417
+5608	/garden_cottage/pools/nabory_dlya_chistki_basseynov	Наборы для чистки бассейнов	7417
+5609	/garden_cottage/pools/schetki_dlya_chistki_basseynov	Щетки для чистки бассейнов	7417
+5610	/garden_cottage/pools/sachki_dlya_chistki_basseynov	Сачки для чистки бассейнов	7417
+5612	/garden_cottage/pools/chehly_dlya_basseynov	Чехлы для бассейнов	7417
+5614	/garden_cottage/furniture_for_garden	Мебель для дачи	7417
+5615	/garden_cottage/furniture_for_garden/tenty_i_shatry	Тенты и шатры	7444
+5617	/garden_cottage/furniture_for_garden/kacheli_sadovye	Качели садовые	7444
+5618	/garden_cottage/furniture_for_garden/stulya_dlya_dachi	Стулья для дачи	7444
+5619	/garden_cottage/furniture_for_garden/stoly_dlya_dachi	Столы для дачи	7444
+5620	/garden_cottage/furniture_for_garden/sadovye_divany_i_kresla	Садовые диваны и кресла	7444
+5621	/garden_cottage/furniture_for_garden/zonty_ot_solnca	Зонты от солнца	7444
+5622	/garden_cottage/cultivators	Мотоблоки и культиваторы	7417
+5623	/garden_cottage/cultivators/shneki_dlya_motoburov	Шнеки для мотобуров	7452
+5624	/garden_cottage/plumbing_for_garden	Сантехника для сада	7417
+5625	/garden_cottage/plumbing_for_garden/baki_dlya_vody	Пластиковые баки для воды	7454
+5626	/garden_cottage/plumbing_for_garden/dachnye_umyvalniki	Дачные умывальники	7454
+5627	/garden_cottage/plumbing_for_garden/nalivnie_nagrevateli	Наливные водонагреватели	7454
+5628	/garden_cottage/pumps/pogrujnye_nasosy	Погружные насосы	7417
+5629	/garden_cottage/pumps/poverhnostnye_nasosy	Поверхностные насосы	7417
+5630	/garden_cottage/pumps/nasosy_dlya_fontanov	Насосы для фонтанов	7417
+5631	/garden_cottage/bath/pechi_dlya_bani	Печи для бани	7417
+5632	/climat	Климатическое оборудование	0
+5633	/climat/heating/radiatory	Радиаторы отопления	7462
+5634	/climat/heating/teplovye_zavesy	Тепловые завесы	7462
+5635	/climat/heating/podklyuchenie_radiatorov	Комплекты для подключения радиаторов	7462
+5636	/sanitary_engineering/termoregulyatory_dlya_radiatorov	Терморегуляторы для радиаторов	5975
+5637	/climat/split_systems/vnutrennie_bloki_kondicionerov	Внутренние блоки кондиционеров	7462
+5638	/climat/split_systems/vneshnie_bloki_kondicionerov	Внешние блоки кондиционеров	7462
+5639	/climat/split_systems/mobilnye_kondicionery	Мобильные кондиционеры	7462
+5640	/climat/split_systems/okonnye_kondicionery	Оконные кондиционеры	7462
+5641	/climat/split_systems/dekorativnye_paneli_dlja_split_sistem	Декоративные панели для сплит-систем	7462
+5642	/climat/split_systems/kronshtejny_dlja_kondicionerov	Кронштейны для кондиционеров	7462
+5643	/climat/air_purifiers	Увлажнители и очистители воздуха	7462
+5644	/climat/air_purifiers/uvlajniteli_vozduha	Увлажнители воздуха	7473
+5645	/climat/air_purifiers/ochistiteli_vozduha	Очистители воздуха	7473
+5646	/climat/air_purifiers/ochistitel_uvlajniteli_vozduha	Очиститель-увлажнители воздуха	7473
+5647	/climat/air_purifiers/osushiteli_vozduha	Осушители воздуха	7473
+5648	/climat/air_purifiers/aksessuary_dlya_uvlajniteley	Аксессуары для увлажнителей воздуха	7473
+5650	/climat/warm_floor/terplye_poly	Теплые полы	7462
+5651	/climat/warm_floor/infrakrasnyy_teplyy_pol	Инфракрасный теплый пол	7462
+5652	/climat/warm_floor/termokabel_dlya_pola	Термокабель для пола	7462
+5653	/climat/warm_floor/termokabel_dlya_obogreva_trub	Термокабель для обогрева труб	7462
+5654	/climat/boilers	Котлы и водонагреватели	7462
+5655	/climat/boilers/rasshiritelnye_baki	Расширительные баки	7484
+5656	/climat/chimneys/otvodi_dlya_dymohoda	Отводы для дымохода	7462
+5657	/climat/measuring_climate	Приборы для измерения климата	7462
+5658	/computers/laptops	Ноутбуки и аксессуары	6007
+5659	/computers/laptops/sumki_dlya_noutbukov	Сумки для ноутбуков	7488
+5660	/computers/laptops/okhlazhdajushhie_podstavki_dlja_noutbukov	Охлаждающие подставки для ноутбуков	7488
+5661	/computers/laptops/adaptery_pitaniya_dlya_noutbukov	Адаптеры питания для ноутбуков	7488
+5662	/computers/notebooks/ukhod_za_komp_juternojj_tekhnikojj	Товары по уходу за компьютерной техникой	6007
+5663	/computers/laptops/akumulatori_dlya_notebookov	Аккумуляторы для ноутбуков	7488
+5664	/computers/tablet_computers	Планшетные компьютеры и аксессуары	6007
+5665	/computers/tablet_computers/planshetnye_kompyutery	Планшетные компьютеры	7494
+5666	/computers/tablet_computers/chekhly_dlja_planshetnykh_kompjuterov	Чехлы для планшетных компьютеров	7494
+5667	/computers/tablet_computers/plenki_dlja_planshetnykh_kompjuterov	Защитные пленки для планшетных компьютеров	7494
+5668	/computers/tablet_computers/zarjadnye_ustrojjstva_dlja_planshetnykov	Зарядные устройства для планшетных компьютеров	7494
+5669	/computers/tablet_computers/dok_stancii_dlja_planshetnykh_kompjuterov	Док-станции для планшетных компьютеров	7494
+5670	/computers/pc	Персональные компьютеры	6007
+5671	/computers/pc/kronshteyny_dlya_monitorov	Кронштейны для мониторов	7500
+5672	/computers/pc/podstavki_dlja_monitorov	Подставки для мониторов	7500
+5673	/computers/el_books_readers	Электронные книги и чехлы	6007
+5674	/computers/el_books_readers/elektronnye_knigi	Электронные книги	7503
+5675	/computers/el_books_readers/chekhly_dlja_ehlektronnykh_knig	Чехлы для электронных книг	7503
+5676	/computers/office_equipment_and_supplies	Оргтехника и расходные материалы	6007
+5677	/computers/office_equipment_and_supplies/kartridzhi_dlja_printerov	Картриджи для принтеров и МФУ	7506
+5678	/computers/office_equipment_and_supplies/fotobumaga	Фотобумага для принтеров	7676
+5679	/computers/office_equipment_and_supplies/printery_ehtiketok	Принтеры для этикеток и чеков	7506
+5680	/computers/office_equipment_and_supplies/toner_dlya_kartridja	Тонер для картриджа	7506
+5681	/computers/accessories	Комплектующие для компьютеров	6007
+5682	/computers/accessories/operativnaja_pamjat	Оперативная память	7511
+5684	/computers/accessories/jestkie_diski	Жесткие диски	7511
+5685	/computers/accessories/kulery_i_sistemy_okhlazhdenija	Кулеры и системы охлаждения	7511
+5686	/computers/accessories/bloki_pitanija	Блоки питания	7511
+5688	/computers/accessories/opticheskie_privody	Оптические приводы	7511
+5690	/computers/power_protection_devices	Устройства защиты электропитания	6007
+5691	/computers/power_protection_devices/setevye_filtry	Сетевые фильтры	7520
+5692	/computers/power_protection_devices/stabilizatory_napryajeniya	Стабилизаторы напряжения	7520
+5693	/computers/power_protection_devices/istochniki_bespereboynogo_pitaniya	Источники бесперебойного питания	7520
+5695	/computers/multimedia/kompyuternye_garnitury	Компьютерные гарнитуры	6007
+5696	/computers/multimedia/kompyuternye_mikrofony	Компьютерные микрофоны	6007
+5697	/computers/input_devices	Устройства ввода	6007
+5698	/computers/input_devices/graphicheskie_planshety	Графические планшеты	7527
+5699	/computers/input_devices/kovriki_dlja_myshi	Коврики для мыши	7527
+5700	/computers/recording_media	Носители информации	6007
+5701	/computers/recording_media/vneshnie_jestkie_diski	Внешние жесткие диски	7530
+5702	/computers/recording_media/karty_pamyati	Карты памяти	7530
+5703	/computers/network_equipment	Сетевое оборудование	6007
+5704	/computers/network_equipment/wifi	Wi-Fi оборудование	7533
+5705	/computers/network_equipment/setevye_karty	Сетевые карты	7533
+5706	/computers/software_is	Программное обеспечение	6007
+5707	/computers/software_is/operacionnye_sistemy	Операционые системы	7536
+5708	/computers/software_is/ofisnye_programmy	Офисные программы	7536
+5709	/computers/servers	Серверное оборудование	6007
+5710	/tools/drills	Дрели, шуруповерты, гайковерты	6017
+5711	/tools/drills/sverla	Сверла и наборы сверл	7540
+5712	/tools/drills/koronki	Коронки для дрелей и перфораторов	7540
+5713	/tools/drills/akkumuljatory_dlja_shurupovertov	Аккумуляторы для шуруповертов	7540
+5714	/tools/drills/zaryadnye_ustroystva	Зарядные устройства для электроинструмента	7540
+5715	/tools/hammers	Ударный инструмент	6017
+5716	/tools/hammers/buri	Буры и наборы буров	7545
+5717	/tools/hammers/pick_hammers	Отбойные молотки	7545
+5718	/tools/hammers/borozdodely	Бороздоделы (штроборезы)	7545
+5719	/tools/hammers/dolota	Долота для перфораторов и отбойных молотков	7545
+5720	/tools/thermo_and_thermal_guns	Термопистолеты и тепловые пушки	6017
+5721	/tools/thermo_and_thermal_guns/teplovye_pushki	Тепловые пушки	7550
+5722	/tools/thermo_and_thermal_guns/tehnicheskie_feny	Технические фены	7550
+5723	/tools/thermo_and_thermal_guns/kleevye_pistolety	Клеевые пистолеты	7550
+5724	/tools/chain_saws_and_shears	Режущий электроинструмент	6017
+5725	/tools/chain_saws_and_shears/diski_dlya_pil	Диски для пил	7554
+5726	/tools/chain_saws_and_shears/sabelnye_pily	Сабельные пилы	7554
+5727	/tools/chain_saws_and_shears/nojnicy_po_metallu	Ножницы по металлу	7554
+5728	/tools/chain_saws_and_shears/cepi_dlya_pil	Цепи для пил	7554
+5731	/tools/grinding_equipment	Шлифовальное оборудование	6017
+5732	/tools/grinding_equipment/shlifovalnye_mashiny	Шлифовальные машины	7561
+5733	/tools/grinding_equipment/aksessuary_dlya_krugloshlifovalnyh_mashin	Аксессуары для круглошлифовальных машин	7561
+5734	/tools/grinding_equipment/lenty_dlya_shlifovalnyh_mashin	Ленты для шлифовальных машин	7561
+5735	/tools/jigsaw_and_planers	Электролобзики и рубанки	6017
+5737	/tools/jigsaw_and_planers/noji_dlya_rubankov	Ножи для электрорубанков	7565
+5739	/tools/machine_tools/frezernye_stanki	Фрезерные станки	6017
+5740	/tools/machine_tools/frezy_dlya_frezernyh_stankov	Фрезы для фрезерных станков	6017
+5741	/tools/pneumotool/shlangi_dlya_kompressora	Шланги для компрессоров	6017
+5742	/tools/fixtures_and_equipment	Приспособления и оснастка	6017
+5743	/tools/fixtures_and_equipment/yaschiki_dlya_instrumentov	Ящики для инструментов	7572
+5745	/tools/fixtures_and_equipment/stroitelnye_udliniteli	Строительные удлинители	7572
+5746	/tools/fixtures_and_equipment/kleykie_lenty	Клейкие ленты	7572
+5747	/tools/personal_protective_equipment	Средства индивидуальной защиты	6017
+5748	/tools/personal_protective_equipment/rukavicy_i_perchatki	Рукавицы и перчатки	7577
+5749	/tools/personal_protective_equipment/ochki_zashhitnye	Очки защитные	7577
+5750	/tools/personal_protective_equipment/zashhitnye_maski	Защитные маски	7577
+5751	/tools/personal_protective_equipment/stroitelnye_naushniki	Строительные наушники	7577
+5752	/tools/hand_tools	Ручной инструмент	6017
+5753	/tools/hand_tools/nabory_instrumentov	Наборы инструментов	7582
+5754	/tools/hand_tools/ruchnie_pily_i_lobziki	Ручные пилы и лобзики	7582
+5755	/tools/hand_tools/passatiji_i_kusachki	Пассатижи и кусачки	7582
+5756	/tools/hand_tools/gaechnye_klyuchi	Гаечные ключи	7582
+5757	/tools/hand_tools/treschotki_vorotki	Трещотки и воротки	7582
+5758	/tools/hand_tools/dinamometricheskie_klyuchi	Динамометрические ключи	7582
+5759	/tools/hand_tools/malyarnye_kisti	Малярные кисти	7582
+5760	/tools/measuring_tools	Измерительный инструмент	6017
+5761	/tools/measuring_tools/urovni	Уровни и угломеры	7590
+5762	/tools/building_facilities	Уборка строительного помещения	6017
+5763	/tools/building_facilities/promyshlennye_pylesosy	Промышленные пылесосы	7592
+5764	/tools/power_equipment	Силовое оборудование	6017
+5765	/tools/power_equipment/svarochnye_apparaty	Сварочные аппараты	7594
+5766	/tools/power_equipment/maski_svarochnye	Маски сварочные	7594
+5767	/phones/cell_phones	Сотовые телефоны	6031
+5768	/phones/cell_phones/mobilnye_telefony	Мобильные телефоны	7597
+5770	/phones/cell_phones/plenki_dlja_telefonov	Плёнки для телефонов	7597
+5771	/phones/cell_phones/ukrashenija_dlja_sotovykh_telefonov	Украшения для сотовых телефонов	7597
+5772	/phones/cell_phones/adaptery_dlya_sim_kart	Адаптеры для SIM-карт	7597
+5773	/phones/cell_phones/zaschitnye_stekla_dlya_sotovyh_telefonov	Защитные стекла для сотовых телефонов	7597
+5774	/phones/telephones_for_home_and_office	Телефоны для дома и офиса	6031
+5775	/phones/telephones_for_home_and_office/provodnie_telefony	Проводные телефоны	7604
+5776	/phones/chargers_and_batteries_for_phones	Зарядные устройства и аккумуляторы для телефонов	6031
+5777	/phones/chargers_and_batteries_for_phones/portativnye_zarjadnye_ustrojjstva	Портативные зарядные устройства для сотовых телефонов	7606
+5778	/phones/chargers_and_batteries_for_phones/akkumuljatory	Аккумуляторы для сотовых телефонов	7606
+5779	/phones/chargers_and_batteries_for_phones/zarjadnye_ustrojjstva	Зарядные устройства для сотовых телефонов	7606
+5780	/phones/chargers_and_batteries_for_phones/avtomobilnye_zarjadnye_ustrojjstva	Автомобильные зарядные устройства для телефонов	7606
+5781	/phones/headset_mobile_phones	Гарнитуры для сотовых телефонов	6031
+5782	/phones/headset_mobile_phones/blutus_garnitury	Bluetooth-гарнитуры	7611
+5783	/phones/headset_mobile_phones/provodniye_garnitury	Проводные гарнитуры	7611
+5784	/tourism	Товары для туризма	0
+5785	/tourism/inflatable_furniture	Надувная мебель	7614
+5787	/tourism/inflatable_furniture/kresla_naduvnye	Кресла надувные	7615
+5788	/tourism/inflatable_furniture/matrasy_naduvnye_detskie	Матрасы надувные детские	7615
+5789	/tourism/inflatable_furniture/podushki_naduvnye	Надувные подушки	7615
+5790	/tourism/boats_and_motors	Лодки и моторы	7614
+5791	/tourism/boats_and_motors/naduvnye_lodki	Надувные лодки	7620
+5792	/tourism/boats_and_motors/lodochnye_motory	Лодочные моторы	7620
+5794	/tourism/boats_and_motors/aksessuary_dlya_lodok	Аксессуары для лодок	7620
+5795	/tourism/optical_devices	Оптические приборы	7614
+5796	/tourism/backpacks_and_bags	Рюкзаки и сумки	7614
+5798	/tourism/backpacks_and_bags/dorojnie_sumki	Дорожные сумки	7626
+5799	/tourism/travel_gear	Туристическое снаряжение	7614
+5801	/tourism/travel_gear/noji_turisticheskie	Ножи туристические	7629
+5803	/tourism/utensils_for_tourism/pohodnye_chayniki	Походные чайники	7614
+5804	/tourism/utensils_for_tourism/miski	Туристические миски	7614
+5805	/tourism/utensils_for_tourism/turisticheskie_krujki	Туристические кружки	7614
+5806	/tourism/utensils_for_tourism/nabory_posudy_dlya_turizma	Наборы посуды для туризма	7614
+5807	/tourism/picnic_sets_and_furniture_for_camping	Наборы для пикника и мебель для кемпинга	7614
+5808	/tourism/picnic_sets_and_furniture_for_camping/mebel_dlya_kempinga	Мебель для кемпинга	7637
+5809	/tourism/picnic_sets_and_furniture_for_camping/nabory_dlja_piknika	Наборы для пикника	7637
+5810	/tourism/grills_barbecue	Гриль и барбекю	7614
+5811	/tourism/grills_barbecue/prinadlezhnosti_dlja_grilja	Принадлежности для гриля	7640
+5812	/tourism/pumps_for_inflatable_products	Насосы для матрасов, бассейнов и лодок	7614
+5813	/tourism/pumps_for_inflatable_products/mehanicheskie_nasosy	Механические насосы	7642
+5814	/tourism/pumps_for_inflatable_products/elektricheskie_nasosy	Электрические насосы	7642
+5815	/furniture/bathroom	Мебель для ванной комнаты	6055
+5817	/furniture/bathroom/penaly_dlja_vannojj	Пеналы для ванн	7645
+5818	/furniture/bathroom/zerkala_dlja_vanny	Зеркала для ванных комнат	7645
+5819	/furniture/bathroom/polki_dlja_vanny	Полки для ванной комнаты	7645
+5820	/furniture/bathroom/komody_dlja_vann	Комоды для ванн	7645
+5821	/furniture/bathroom/podvesnye_shkafy_dlya_vann	Подвесные шкафы для ванн	7645
+5822	/furniture/hallway/veshalki	Вешалки и галошницы	6055
+5824	/furniture/bedroom/osnovaniya_dlya_krovatey	Основания для кроватей	6055
+5825	/furniture/living_room/stellaji_dlya_gostinoy	Стеллажи для гостиной	6055
+5828	/furniture/living_room/shkafy_dlya_gostinoy	Шкафы для гостиной	6055
+5829	/furniture/kitchen/stoly_obedennye	Столы обеденные	6055
+5830	/furniture/kitchen/obedennye_gruppy	Обеденные группы	6055
+5831	/furniture/kitchen/tumby_dlya_kuhni	Тумбы для кухни	6055
+5833	/furniture/office	Мебель для офиса	6055
+5834	/furniture/office/kompyuternye_stulja	Компьютерные стулья	7663
+5835	/furniture/office/stoly_kompyuternye	Столы компьютерные	7663
+5836	/furniture/office/stoly_ofisnye	Столы офисные	7663
+5837	/furniture/office/tumby_dlya_ofisa	Тумбы для офиса	7663
+5838	/furniture/office/stellaji_dlya_ofisa	Стеллажи для офиса	7663
+5839	/furniture/office/shkafy_dlya_ofisa	Шкафы для офиса	7663
+5840	/furniture/kids_room/detskie_krovati	Детские кровати	7282
+5841	/furniture/kids_room/party_stoly	Парты и письменные столы	7282
+5842	/furniture/kids_room/shkafy_dlya_detskoy	Шкафы для детской	7282
+5844	/furniture/kids_room/tumby_dlya_detskoy	Тумбы для детской	7282
+5845	/furniture/kids_room/komody_dlya_detskoy	Комоды для детской	7282
+5846	/foto	Фото товары	0
+5847	/foto/photo_technics/zarjadnye_ustrojjstva	Зарядные устройства для фотокамер	7676
+5849	/foto/photo_technics/batareynye_rukoyatki	Батарейные рукоятки	7676
+5850	/foto/photo_technics/pulty_upravleniya	Пульты управления	7676
+5851	/foto/photo_technics/chistjashhie_sredstva_dlja_fotoapparatov	Чистящие средства для фотоаппаратов	7676
+5852	/foto/photo_technics/plenki_dlya_fotoapparatov	Защитные пленки для фотоаппаратов	7676
+5854	/foto/photo_bags/fotosumki_chehly	Фотосумки и чехлы	7676
+5856	/foto/photo_bags/remeshki_dlja_fotoapparatov	Ремешки для фотоаппаратов	7676
+5857	/foto/photo_frames	Рамки для фотографий	7676
+5858	/foto/photo_frames/cifronie_fotoramki	Цифровые фоторамки	7676
+5860	/podarochnye_sertifikaty	Подарочные сертификаты	0
+5861	http://avia.e96.ru	Авиабилеты и отели	0
+5875	menuitem	Интернет-магазин E96.ru	0
+5882	onlinecall	Позвонить онлайн	0
+5883	/help/howtopay	Оплата товара	0
+5886	/sporting_goods/cycle_racing/velofonari	47 моделей	7005
+5890	/sporting_goods/strikeball/avtomaty_dlya_straykbola	Автоматы для страйкбола	7111
+5898	/kitchen_appliance/large/holodilniki	2220 моделей	7064
+5901	/kitchen_appliance/small/multivarki	1051 модель	7074
+5910	/avto/tires_and_wheels/shiny	13354 модели	7112
+5911	/avto/autosound/sabvufery	943 модели	7111
+5928	/built_in/hoods	2229 моделей	7205
+5946	/household_appliances/cleaners/pylesosy	863 модели	7229
+5953	/kids/child_car_seats_and_strollers/kolasky	2725 моделей	7283
+5968	/sanitary_engineering/sanfayans/unitazy	1135 моделей	7389
+5975	/sanitary_engineering	и еще 50 категорий	0
+5981	/garden_cottage/cultivators/motobloki	56 моделей	7452
+5988	/climat/boilers/vodonagrevateli	1632 модели	7484
+5989	/climat/split_systems/kondicionery	627 моделей	7462
+5990	/climat/boilers/kotly	732 модели	7484
+5997	/computers/laptops/noutbuki	2730 моделей	7488
+6000	/computers/pc/kompyutery	972 модели	7500
+6007	/computers	и еще 57 категорий	0
+6008	/tools/chain_saws_and_shears/benzopily	251 модель	7554
+6011	/tools/drills/drely	1477 моделей	7540
+6017	/tools	и еще 74 категории	0
+6031	/phones	и еще 14 категорий	0
+6044	/furniture/living_room/divany	1116 моделей	6055
+6055	/furniture	и еще 41 категория	0
+6057	/foto/photo_technics/fotoapparaty	628 моделей	7676
+6058	/foto/photo_optics/fotoobektivy	159 моделей	7676
+6059	/foto/tripods/monopody	26 моделей	7676
+6065	/actions/built_in/hoods	106 моделей	7205
+6066	/actions/household_appliances/washing/stiralnye_mashiny	Стиральные машины	7268
+6068	/actions/household_appliances/cleaners/pylesosy	27 моделей	7229
+6069	/actions	и еще 819 категорий	0
+6070	/reduction	Уцененные товары	0
+6071	/reduction/built_in/hoods	61 модель	7205
+6074	/reduction/household_appliances/cleaners/pylesosy	20 моделей	7229
+6076	http://avia.e96.ru/	Авиабилеты и отели	5861
+6080	/articles/how_to-1/gas_stoves/kak-vibrat-gazovuyu-plitu	Как выбрать газовую плиту?	0
+6081	/articles?filter%5Bac%5D%5B%5D=4	Как выбрать	0
+6082	/articles?filter%5Bpc%5D%5B%5D=28	Газовые плиты	0
+6083	/articles/how_to-1/wheels/kak-vibrat-avto-diski	Как выбрать колесные диски?	0
+6088	/help/exchange_and_return	Обмен и возврат	0
+6089	/help/oferta	Публичная оферта	0
+6090	/help/personsdata	Политика обработки персональных данных	0
+6091	http://mycity.e96.ru	Мой город за 96 секунд	0
+6092	http://e96.ru/elka	Ёлка желаний	0
+6093	item onlinecall	Позвонить онлайн	0
+6094	item email	info@e96.ru	0
+6095	item skype	www.e96.ru	0
+6096	http://m.e96.ru/catalog/topics	Мобильная версия	0
+6097	/contacts	620016, Екатеринбург, Краснолесья, д. 12а	0
+7005	/articles/how_to-1/fotoapparaty/kak-vibrat-fotoapparat	Как выбрать фотоаппарат?	7676
+7005	/sporting_goods	Спортивные товары	0
+7006	/sporting_goods/weightlifting	Тяжелая атлетика	7005
+7007	/sporting_goods/weightlifting/poyasa_dlya_tyajeloy_atletiki	Пояса для тяжелой атлетики	7006
+7008	/sporting_goods/weightlifting/atleticheskie_perchatki	Атлетические перчатки	7006
+7009	/sporting_goods/trainers/begovye_dorojki	Беговые дорожки	7005
+7010	/sporting_goods/trainers/sportivnye_skami	Спортивные скамьи	7005
+7011	/sporting_goods/airguns	Пневматическое оружие	7005
+7012	/sporting_goods/airguns/pnevmaticheskie_pistolety	Пневматические пистолеты	7011
+7013	/sporting_goods/airguns/pnevmaticheskie_vintovki	Пневматические винтовки	7011
+7014	/sporting_goods/airguns/puli_dlya_pnevmatiki	Пули для пневматики	7011
+7015	/sporting_goods/airguns/mehanicheskie_misheni	Механические мишени	7011
+7016	/sporting_goods/airguns/ballonchiki_co2	Баллончики CO2	7011
+7017	/sporting_goods/tennis	Большой теннис	7005
+7018	/sporting_goods/tennis/myachi_dlya_bolshogo_tennisa	Мячи для большого тенниса	7017
+7019	/sporting_goods/tennis/nabory_dlya_bolshogo_tennisa	Наборы для большого тенниса	7017
+7020	/sporting_goods/tennis/raketki_dlya_bolshogo_tennisa	Ракетки для большого тенниса	7017
+7021	/sporting_goods/martial_arts/perchatki_lapy_nakladki	Перчатки, лапы, накладки	7005
+7022	/sporting_goods/martial_arts/poyasa_dlya_kimono	Пояса для кимоно	7005
+7023	/sporting_goods/football/futbolnye_myachi	Футбольные мячи	7005
+7024	/sporting_goods/football/futbolnaya_forma	Футбольная форма	7005
+7025	/sporting_goods/ping_pong	Настольный теннис	7005
+7026	/sporting_goods/ping_pong/nabor_dlya_nastolnogo_tennisa	Наборы для настольного тенниса	7025
+7027	/sporting_goods/ping_pong/myachi_dlya_nastolnogo_tennisa	Мячи для настольного тенниса	7025
+7028	/sporting_goods/ping_pong/raketki_dlya_nastolnogo_tennisa	Ракетки для настольного тенниса	7025
+7029	/sporting_goods/ping_pong/setki_dlya_nastolnogo_tennisa	Сетки для настольного тенниса	7025
+7030	/sporting_goods/swimming/ochki_dlya_plavaniya	Очки для плавания	7005
+7031	/sporting_goods/swimming/maski_dlya_plavaniya	Маски для плавания	7005
+7032	/sporting_goods/swimming/shapochki_dlya_plavaniya	Шапочки для плавания	7005
+7033	/sporting_goods/bows_crossbows_slingshots	Луки, арбалеты, рогатки	7005
+7034	/sporting_goods/bows_crossbows_slingshots/strely_dlya_arbaleta	Стрелы для арбалета	7033
+7035	/sporting_goods/darts/nabory_dlya_dartsa	Наборы для дартса	7005
+7036	/sporting_goods/gym_and_aerobics	Гимнастика и аэробика	7005
+7037	/sporting_goods/gym_and_aerobics/gimnasticheskie_maty	Гимнастические маты	7036
+7038	/sporting_goods/gym_and_aerobics/kovriki_dlya_yogi	Коврики для йоги	7036
+7039	/sporting_goods/gym_and_aerobics/forma_legkoatleticheskaya	Форма легкоатлетическая	7036
+7040	/sporting_goods/basketball/basketbolnyy_myach	Баскетбольные мячи	7005
+7041	/sporting_goods/volleyball/voleybolnye_myachi	Волейбольные мячи	7005
+7042	/sporting_goods/volleyball/voleybolnaya_forma	Волейбольная форма	7005
+7043	/sporting_goods/cycle_racing/velosipednye_perchatki	Велосипедные перчатки	7005
+7044	/sporting_goods/cycle_racing/zamki_dlya_velosipedov	Замки для велосипедов	7005
+7045	/sporting_goods/cycle_racing/velosipednye_kamery	Велосипедные камеры	7005
+7046	/sporting_goods/cycle_racing/velosipednye_nasosy	Велосипедные насосы	7005
+7047	/sporting_goods/cycle_racing/velosipednye_vtulki	Велосипедные втулки	7005
+7048	/sporting_goods/cycle_racing/velosipednye_krylya	Велосипедные крылья	7005
+7049	/sporting_goods/badminton/setki_dlya_badmintona	Сетки для бадминтона	7005
+7050	/sporting_goods/badminton/volany_dlya_badmintona	Воланы для бадминтона	7005
+7051	/sporting_goods/badminton/raketki_dlya_badmintona	Ракетки для бадминтона	7005
+7052	/sporting_goods/measuring_devices	Измерительные устройства	7005
+7053	/sporting_goods/ice_skating	Конькобежный спорт	7005
+7054	/sporting_goods/ice_skating/kombinirovannye_konki	Комбинированные коньки	7053
+7055	/sporting_goods/ice_skating/konki_dlya_figurnogo_kataniya	Коньки для фигурного катания	7053
+7056	/sporting_goods/ice_skating/konki_progulochnye	Коньки прогулочные	7053
+7057	/sporting_goods/ice_skating/sumki_chehly_dlya_konkov	Сумки-чехлы для коньков	7053
+7058	/sporting_goods/hockey/hokkeynye_konki	Хоккейные коньки	7005
+7059	/sporting_goods/cross_country_skiing/begovye_lyji	Беговые лыжи	7005
+7060	/sporting_goods/cross_country_skiing/botinki_dlya_begovyh_lyj	Ботинки для беговых лыж	7005
+7061	/sporting_goods/cross_country_skiing/palki_dlya_begovyh_lyj	Палки для беговых лыж	7005
+7062	/sporting_goods/sports_awards	Спортивные награды	7005
+7063	/kitchen_appliance	Товары для кухни	0
+7064	/kitchen_appliance/large	Крупная техника	7063
+7065	/kitchen_appliance/large/elektricheskie_plity	Электрические плиты	7064
+7066	/kitchen_appliance/large/gazovye_plity	Газовые плиты	7064
+7067	/kitchen_appliance/large/posudomoechnye_mashiny	Посудомоечные машины	7064
+7068	/kitchen_appliance/large/kulery_dlya_vody	Кулеры для воды	7064
+7069	/kitchen_appliance/large/sredstva_dlya_posudomoechnyh_mashin	Средства для посудомоечных машин	7064
+7070	/kitchen_appliance/large/uhod_za_kuhonnoy_tehnikoy	Товары по уходу за кухонной техникой	7064
+7071	/kitchen_appliance/large/poglotiteli_zapaha_dlya_holodilnika	Поглотители запаха для холодильника	7064
+7072	/kitchen_appliance/large/sredstva_dlya_chistki_holodilnikov	Средства для чистки холодильников	7064
+7073	/kitchen_appliance/large/dispensery_dlya_vody	Диспенсеры для воды	7064
+7074	/kitchen_appliance/small	Мелкая техника	7063
+7075	/kitchen_appliance/small/mikrovolnovye_pechi	Микроволновые печи	7074
+7076	/kitchen_appliance/small/kuhonnye_kombayny	Кухонные комбайны	7074
+7077	/kitchen_appliance/small/aksessuary_dlya_multivarok	Аксессуары для мультиварок	7074
+7078	/kitchen_appliance/small/sushilki_dlja_ovoshhejj_fruktov_gribov	Сушилки для овощей, фруктов, грибов	7074
+7079	/kitchen_appliance/small/kronshtejjny_dlja_mikrovolnovykh_pechejj	Кронштейны для микроволновых печей	7074
+7080	/kitchen_appliance/kitchen_grills	Кухонные грили	7063
+7081	/kitchen_appliance/kitchen_grills/electricheskie_grili	Электрические грили	7080
+7082	/kitchen_appliance/tea_and_coffee	Чай и кофе	7063
+7083	/kitchen_appliance/tea_and_coffee/elektricheskie_chayniki	Электрические чайники	7082
+7084	/kitchen_appliance/tea_and_coffee/kapsuly_dlya_kofemashin	Капсулы для кофемашин	7082
+7085	/kitchen_appliance/tea_and_coffee/chistka_kofe_mashin	Средства для чистки кофе-машин	7082
+7087	/kitchen_appliance/crockery/nabory_posudy	Наборы посуды	7063
+7088	/kitchen_appliance/crockery/kuhonnye_noji	Кухонные ножи и ножницы	7063
+7089	/kitchen_appliance/crockery/posuda_dlya_vypechki	Посуда для выпечки	7063
+7090	/kitchen_appliance/crockery/tarelki	Тарелки и наборы тарелок	7063
+7091	/kitchen_appliance/crockery/stolovye_pribory	Столовые приборы	7063
+7092	/kitchen_appliance/crockery/posuda_dlya_servirovki	Посуда для сервировки	7063
+7093	/kitchen_appliance/crockery/krujki	Кружки и наборы кружек	7063
+7094	/kitchen_appliance/crockery/bokaly_stakany_ryumki	Бокалы, стаканы, рюмки	7063
+7095	/kitchen_appliance/crockery/kuvshiny_grafiny	Кувшины и графины	7063
+7096	/kitchen_appliance/juices_and_yogurts	Соки и йогурты	7063
+7097	/kitchen_appliance/goods	Кухонные товары	7063
+7098	/kitchen_appliance/goods/kukhonnye_vesy	Кухонные весы	7097
+7100	/kitchen_appliance/goods/pompy_dlja_vody	Помпы для воды	7097
+7101	/kitchen_appliance/goods/kukhonnye_prinadlezhnosti	Кухонные принадлежности	7097
+7102	/kitchen_appliance/goods/kontejjnery	Хранение продуктов	7097
+7103	/kitchen_appliance/goods/sifony_dlja_gazirovanija_vody	Сифоны для газирования воды	7097
+7104	/kitchen_appliance/goods/gubki_dlja_posudy	Губки для мытья посуды	7097
+7105	/kitchen_appliance/goods/reylingovye_sistemy	Рейлинговые системы	7097
+7106	/kitchen_appliance/goods/nastolnye_sushilki_dlya_posudy	Настольные сушилки для посуды	7097
+7107	/kitchen_appliance/parties	Техника для вечеринок	7063
+7108	/kitchen_appliance/parties/fondju	Наборы для фондю	7107
+7109	/kitchen_appliance/parties/shokoladnye_fontany	Шоколадные фонтаны	7107
+7110	/kitchen_appliance/parties/apparaty_dlya_saharnoy_vaty	Аппараты для сахарной ваты	7107
+7111	/avto	Авто и мото	0
+7112	/avto/tires_and_wheels	Шины и диски	7111
+7113	/avto/tires_and_wheels/kolesnie_disky	Колесные диски	7112
+7114	/avto/tires_and_wheels/krepej_diskov	Крепеж дисков	7112
+7115	/avto/autosound/koaksialnaya_avtoakustika	Коаксиальная автоакустика	7111
+7116	/avto/autosound/avtomobilnye_usiliteli	Автомобильные усилители	7111
+7117	/avto/autosound/komponentnaya_avtoakustika	Компонентная автоакустика	7111
+7118	/avto/autosound/shtatnye_golovnye_ustroystva	Штатные головные устройства	7111
+7119	/avto/autosound/avtomobilnye_antenny	Автомобильные антенны	7111
+7120	/avto/autosound/tvitery	Твитеры (ВЧ-динамики)	7111
+7121	/avto/autosound/avto_audio_kabeli	Авто аудио кабели	7111
+7122	/avto/autosound/pulty_dlja_avtomagnitol	Пульты для автомагнитол	7111
+7123	/avto/autosound/shirokopolosnaya_akustika	Широкополосная акустика	7111
+7124	/avto/autosound/midbasy	Мидбасы (НЧ-динамики)	7111
+7125	/avto/autosound/srednechastotnaya_avtoakustika	Среднечастотная автоакустика	7111
+7126	/avto/autosound/korpusnaya_avtoakustika	Корпусная автоакустика	7111
+7127	/avto/alarm/breloki_signalizacij	Брелоки для сигнализаций	7111
+7128	/avto/alarm/gsm_gsp_sistemy_ohrany	GSM и GPS системы охраны	7111
+7129	/avto/alarm/avtomobilnye_sireny	Автомобильные сирены	7111
+7130	/avto/car_wash	Автомойки и пылесосы	7111
+7131	/avto/car_wash/nasadki_dlya_avtomoek	Насадки для автомоек	7130
+7132	/avto/car_wash/shlangi_dlya_avtomoek	Шланги для автомоек	7130
+7133	/avto/autolights/avtolampy	Автомобильные лампы	7111
+7134	/avto/autolights/dnevnye_hodovye_ogni	Дневные ходовые огни	7111
+7136	/avto/autolights/bloki_rozjiga	Блоки розжига	7111
+7137	/avto/autolights/fary_dalnego_sveta	Фары дальнего света	7111
+7138	/avto/autolights/fary_blijnego_sveta	Фары ближнего света	7111
+7139	/avto/autolights/gabaritnye_ogni	Габаритные огни	7111
+7140	/avto/auto_heat/avtomobilnye_odeyala	Автомобильные одеяла	7111
+7141	/avto/auto_heat/obogrev_sidenijj	Подогрев сидений	7111
+7142	/avto/accumulators	Аккумуляторы и зарядные устройства	7111
+7143	/avto/accumulators/zaryadnye_ustroystva_dlya_akkumulyatorov	Зарядные устройства для аккумуляторов	7142
+7144	/avto/accumulators/akkumuljatory	Автомобильные аккумуляторы	7142
+7145	/avto/accumulators/klemmy_na_akkumulyatory	Клеммы на аккумуляторы	7142
+7146	/avto/auto_electronics/kamery_zadnego_vida	Камеры заднего вида	7111
+7147	/avto/auto_electronics/avtomobilnye_derjateli	Автомобильные держатели	7111
+7148	/avto/auto_electronics/bortovye_kompjutery	Бортовые компьютеры	7111
+7149	/avto/auto_electronics/razvetviteli_prikurivatelejj	Разветвители прикуривателя	7111
+7150	/avto/auto_accessories/avto_kompressory	Автомобильные компрессоры	7111
+7151	/avto/auto_accessories/avto_kovriki	Автомобильные коврики	7111
+7152	/avto/auto_accessories/shhetki_stekloochistitelja	Щетки стеклоочистителя	7111
+7153	/avto/auto_accessories/avtomobilnye_manometry	Автомобильные манометры	7111
+7154	/avto/auto_accessories/zashhita_kartera	Защита картера	7111
+7155	/avto/auto_accessories/zaschitnyy_chehol_tent	Защитные чехлы-тенты	7111
+7156	/avto/auto_accessories/avtomobilnye_chehly	Автомобильные чехлы	7111
+7157	/avto/auto_accessories/opletki_na_rul	Оплетки на руль	7111
+7158	/avto/auto_accessories/avtomobilnye_podkrylki	Автомобильные подкрылки	7111
+7159	/avto/car_oil	Автомобильные масла	7111
+7160	/avto/car_oil/motornye_masla	Моторные масла	7159
+7161	/avto/car_oil/transmissionnye_masla	Трансмиссионные масла	7159
+7162	/audio_video	Аудио, видео	0
+7163	/audio_video/projectors	Проекционное оборудование	7162
+7164	/audio_video/projectors/proektory	Мультимедиа проекторы	7163
+7165	/audio_video/projectors/ekrany_dlya_proektorov	Экраны для проекторов	7163
+7166	/audio_video/projectors/kronshteyny_dlya_proektorov	Кронштейны для проекторов	7163
+7167	/audio_video/projectors/interaktivnye_doski	Интерактивные доски	7163
+7168	/audio_video/projectors/magnitno_markernye_doski	Магнитно-маркерные доски	7163
+7169	/audio_video/gaming_consoles	Игровые приставки и игры	7162
+7170	/audio_video/gaming_consoles/igrovye_pristavki	Игровые приставки	7169
+7171	/audio_video/gaming_consoles/portativnye_igrovye_pristavki	Портативные игровые приставки	7169
+7172	/audio_video/gaming_consoles/igry_dlya_xbox	Игры для Xbox	7169
+7173	/audio_video/gaming_consoles/igry_dlya_pc	Игры для PC	7169
+7174	/audio_video/gaming_consoles/igry_dlya_sony_playstation	Игры для Sony PlayStation	7169
+7175	/audio_video/gaming_consoles/igrovye_aksessuary	Игровые аксессуары	7169
+7176	/audio_video/gaming_consoles/igry_dlya_nintendo	Игры для Nintendo	7169
+7177	/audio_video/gaming_consoles/karty_podpiski	Карты подписки	7169
+7178	/audio_video/music_players	Музыкальные плееры	7162
+7179	/audio_video/music_players/chehly_dlya_mp3_pleerov	Чехлы для MP3-плееров	7178
+7180	/audio_video/music_players/plenki_dlya_mp3_pleerov	Пленки для MP3-плееров	7178
+7181	/audio_video/audio	Акустика и аудиосистемы	7162
+7182	/audio_video/audio/muzykalnye_centry	Музыкальные центры	7181
+7183	/audio_video/audio/portativnaya_akustika	Портативная акустика	7181
+7184	/audio_video/audio/usiliteli_resivery	Усилители и ресиверы	7181
+7185	/audio_video/audio/zvukovye_paneli	Звуковые панели	7181
+7186	/audio_video/audio/domashnie_kinoteatry	Домашние кинотеатры	7181
+7187	/audio_video/audio/sabvufery	Домашние сабвуферы	7181
+7188	/audio_video/audio/vstraivaemaya_akustika	Встраиваемая акустика	7181
+7189	/audio_video/audio/kronshteyny_dlya_audio_tehniki	Кронштейны для аудио техники	7181
+7191	/audio_video/audio/stoyki_dlya_audio	Стойки для аудио техники	7181
+7192	/audio_video/video_players/dvdpleery	DVD плееры	7162
+7193	/audio_video/video_players/blu_ray_pleery	Blu-ray плееры	7162
+7194	/audio_video/tv	Телевизоры и кронштейны	7162
+7195	/audio_video/tv/kronshteyny_dlya_tv	Кронштейны для телевизоров	7194
+7196	/audio_video/tv/tumby_dlya_televizorov	Тумбы под телевизор	7194
+7197	/audio_video/tv/pulty_dlya_televizorov	Пульты для телевизоров	7194
+7198	/audio_video/tv/stojjki_dlja_tv	Стойки для телевизоров	7194
+7199	/audio_video/television	Цифровое и спутниковое ТВ	7162
+7200	/audio_video/television/televizionnye_antenny	Телевизионные антенны	7199
+7201	/audio_video/television/sputnikovoe_televidenie	Комплекты спутникового телевидения	7199
+7202	/audio_video/cameras	Видео и экшн камеры	7162
+7203	/audio_video/cameras/akkumulyatory_dlya_videokamer	Аккумуляторы для видеокамер	7202
+7204	/audio_video/cameras/sumki_dlja_videokamer	Сумки для видеокамер	7202
+7205	/built_in	Встраиваемая техника	0
+7206	/built_in/dukhovye_shkafy	Духовые шкафы	7205
+7207	/built_in/varochnye_poverkhnosti	Варочные поверхности	7205
+7208	/built_in/posudomoechnye_mashiny	Встраиваемые посудомоечные машины	7205
+7209	/built_in/build_in_refrigerators	Встраиваемые холодильники	7205
+7210	/built_in/svch_pechi	Встраиваемые микроволновые печи	7205
+7211	/built_in/stiral_nye_mashiny	Встраиваемые стиральные машины	7205
+7212	/built_in/komplekty	Комплекты встраиваемой техники	7205
+7213	/built_in/filters	Фильтры для вытяжек	7205
+7214	/built_in/kofemashiny	Встраиваемые кофемашины	7205
+7215	/built_in/sredstva_dlja_chistki_varochnykh_poverkhnostejj	Средства для чистки варочных поверхностей	7205
+7216	/built_in/household_disposers	Измельчители бытовых отходов	7205
+7217	/built_in/steamers	Встраиваемые пароварки	7205
+7218	/built_in/ramki_dlja_vytjazhek	Рамки для вытяжек	7205
+7219	/household_appliances	Товары для дома	0
+7220	/household_appliances/ironing	Утюги и гладильные системы	7219
+7221	/household_appliances/ironing/gladilnie_doski	Гладильные доски	7220
+7222	/household_appliances/ironing/aksessuary_dlj_utjugov	Аксессуары для утюгов	7220
+7223	/household_appliances/ironing/gladilnye_pressy	Гладильные прессы	7220
+7224	/household_appliances/ironing/chekhli_dlja_gladilnykh_dosok	Чехлы для гладильных досок	7220
+7225	/household_appliances/ironing/gladilnye_sistemy	Гладильные системы	7220
+7226	/household_appliances/ironing/stendy_pod_gladilnye_pressy	Стенды под гладильные прессы	7220
+7227	/household_appliances/steamers	Отпариватели и парогенераторы	7219
+7228	/household_appliances/steamers/parovye_shvabry	Паровые швабры	7227
+7229	/household_appliances/cleaners	Пылесосы и роботы-пылесосы	7219
+7230	/household_appliances/cleaners/filtry_dlja_pylesosov	Фильтры для пылесосов	7229
+7231	/household_appliances/cleaners/nasadki_dlja_pylesosov	Насадки для пылесосов	7229
+7232	/household_appliances/cleaners/mojushhie_sredstva_dlja_pylesosov	Моющие средства для пылесосов	7229
+7233	/household_appliances/sewing	Швейное оборудование	7219
+7234	/household_appliances/sewing/shvejjnye_mashiny	Швейные машины	7233
+7235	/household_appliances/lighting/nastolnye_lampy	Настольные лампы	7219
+7236	/household_appliances/lighting/prazdnichnyi_svet	Праздничный свет	7219
+7238	/household_appliances/video_monitoring/sistemy_videonabljudenija	Системы видеонаблюдения	7219
+7239	/household_appliances/presents	Сувениры и подарки	7219
+7240	/household_appliances/presents/samogonnye_apparaty	Самогонные аппараты	7239
+7241	/household_appliances/homeware	Домашние товары	7219
+7242	/household_appliances/homeware/mashinki_dlja_udalenija_katyshkov	Машинки для удаления катышков	7241
+7243	/household_appliances/homeware/vedra_dlya_doma	Ведра для дома	7241
+7244	/household_appliances/homeware/korziny_i_korobki	Корзины и коробки	7241
+7245	/household_appliances/homeware/dvernye_zamki	Дверные замки	7241
+7246	/household_appliances/homeware/elektronnye_lupy	Электронные лупы	7241
+7247	/household_appliances/new_year	Новогодние украшения	7219
+7248	/household_appliances/new_year/novogodnie_jolki	Новогодние ёлки	7247
+7249	/household_appliances/new_year/elochnye_igrushki	Ёлочные игрушки	7247
+7250	/household_appliances/home_textiles	Домашний текстиль	7219
+7251	/household_appliances/home_textiles/komplekty_postelnogo_belya	Комплекты постельного белья	7250
+7252	/household_appliances/home_textiles/pledy_pokryvala	Пледы и покрывала	7250
+7253	/household_appliances/shaving	Бритвы и эпиляторы	7219
+7254	/household_appliances/shaving/aksessuary_dlya_britv	Аксессуары для бритв	7253
+7255	/household_appliances/toothbrushes	Зубные щетки	7219
+7256	/household_appliances/toothbrushes/elektricheskie_zubnye_shhetki	Электрические зубные щетки	7255
+7257	/household_appliances/toothbrushes/nasadki_dlja_zubnykh_shhetok	Насадки для зубных щеток	7255
+7258	/household_appliances/haircare	Уход за волосами	7219
+7259	/household_appliances/haircare/mashinki_dlya_strijki	Машинки для стрижки	7258
+7260	/household_appliances/haircare/nabory_dlya_ukladki	Наборы для укладки	7258
+7261	/household_appliances/haircare/mnogofunkcionalnoe_ustroystva_dlya_ukladki	Многофункциональные устройства для укладки	7258
+7262	/household_appliances/health_and_beauty	Красота и здоровье	7219
+7263	/household_appliances/health_and_beauty/massajnye_vannochki_dlya_nog	Массажные ванночки для ног	7262
+7264	/household_appliances/health_and_beauty/parovye_sauny_dlya_lica	Паровые сауны для лица	7262
+7265	/household_appliances/health_and_beauty/manikyurnye_nabory	Маникюрные наборы	7262
+7266	/household_appliances/health_and_beauty/elektricheskie_manikyurnye_nabory	Электрические маникюрные наборы	7262
+7267	/household_appliances/health_and_beauty/ruchnye_massajery	Ручные массажеры	7262
+7268	/household_appliances/washing	Стирка и сушка	7219
+7269	/household_appliances/washing/stiralnye_mashiny	Стиральные машины	7268
+7270	/household_appliances/washing/sushilki_dlya_belya	Сушилки для белья	7268
+7271	/household_appliances/washing/sushilnye_mashiny	Сушильные машины	7268
+7272	/household_appliances/washing/stiralnye_poroshki	Стиральные порошки	7268
+7273	/household_appliances/washing/aksessuary_dlya_stiralnyh_mashin	Аксессуары для стиральных машин	7268
+7274	/household_appliances/washing/sushilki_dlya_obuvi	Сушилки для обуви	7268
+7275	/household_appliances/coupons	Купоны и сертификаты	7219
+7276	/household_appliances/coupons/ustanovka_bytovojj_tekhniki	Купоны на подключение	7275
+7278	/household_appliances/watch/naruchnye_chasy	Наручные часы	7219
+7280	/household_appliances/watch/nastolnye_chasy	Настольные часы	7219
+7281	/household_appliances/watch/karmannye_chasy	Карманные часы	7219
+7282	/kids	Детские товары	0
+7283	/kids/child_car_seats_and_strollers	Детские автокресла и коляски	7282
+7284	/kids/child_car_seats_and_strollers/avtomobilnye_kresla	Детские автокресла	7283
+7285	/kids/child_car_seats_and_strollers/sumki_dlja_koljasok	Сумки для колясок	7283
+7286	/kids/baby_cribs	Кроватки для детей	7282
+7287	/kids/baby_cribs/detskie_krovatki	Детские кроватки	7286
+7289	/kids/baby_cribs/detskie_matrasy	Детские матрасы	7286
+7290	/kids/baby_cribs/bortiki_v_krovatku	Бортики в кроватку	7286
+7291	/kids/furniture_and_accessories	Мебель и аксессуары	7282
+7292	/kids/furniture_and_accessories/stulchiki_dlya_kormleniya	Стульчики для кормления	7291
+7293	/kids/furniture_and_accessories/pelenalnye_stoly_i_komody	Пеленальные столы и комоды	7291
+7295	/kids/furniture_and_accessories/detskie_nastolnye_svetilniki	Детские настольные светильники	7291
+7296	/kids/furniture_and_accessories/detskie_mjagkie_kresla	Детские мягкие кресла	7291
+7298	/kids/furniture_and_accessories/detskie_taburety	Детские табуреты	7291
+7299	/kids/furniture_and_accessories/jashhiki_i_korziny_dlja_igrushek	Ящики и корзины для игрушек	7291
+7300	/kids/furniture_and_accessories/detskie_stoliki	Детские столики	7291
+7301	/kids/furniture_and_accessories/detskie_nastennye_svetilniki	Детские настенные светильники	7291
+7302	/kids/furniture_and_accessories/detskie_magnitno_markernye_doski	Детские магнитно маркерные доски	7291
+7303	/kids/goods_for_newborns	Товары для новорожденных	7282
+7304	/kids/goods_for_newborns/radio_i_videonyani	Радио- и видеоняни	7303
+7305	/kids/goods_for_newborns/detskaja_posuda_dlja_kormlenija	Детская посуда для кормления	7303
+7306	/kids/goods_for_newborns/komplekty_i_konverty_na_vypisku	Комплекты и конверты на выписку	7303
+7307	/kids/goods_for_newborns/butylochki_dlja_kormlenija	Бутылочки для кормления	7303
+7308	/kids/goods_for_newborns/detskie_gorshki	Детские горшки	7303
+7309	/kids/goods_for_newborns/detskoe_pitanie	Детское питание	7303
+7310	/kids/goods_for_newborns/soski_i_pustyshki	Пустышки и соски	7303
+7311	/kids/goods_for_newborns/vannochki_dlja_kupanija	Ванночки для купания	7303
+7312	/kids/goods_for_newborns/vesy_detskie	Детские весы	7303
+7313	/kids/goods_for_newborns/gorki_dlja_kupanija	Горки для купания	7303
+7314	/kids/goods_for_newborns/detskie_vlazhnye_salfetki	Детские влажные салфетки	7303
+7315	/kids/goods_for_newborns/perenoski_dlja_novorozhdennykh	Переноски для новорожденных	7303
+7316	/kids/goods_for_newborns/spalnye_meshki_dlya_detey	Спальные мешки для детей	7303
+7317	/kids/goods_for_newborns/detskie_ryukzaki_perenoski	Детские рюкзаки переноски	7303
+7318	/kids/baby_complexes	Детские комплексы	7282
+7319	/kids/baby_complexes/igrovye_kompleksy	Игровые комплексы	7318
+7321	/kids/baby_complexes/brusya_dlya_dsk	Брусья для ДСК	7318
+7322	/kids/baby_complexes/ulichnye_detskie_sportivnye_kompleksy	Уличные детские спортивные комплексы	7318
+7323	/kids/children_transport	Детский транспорт	7282
+7324	/kids/children_transport/velosipedy_dlja_malyshejj	Велосипеды для малышей	7323
+7325	/kids/children_transport/sanki	Санки и снегокаты	7323
+7326	/kids/children_transport/detskie_ehlektromobili	Детские электромобили	7323
+7327	/kids/children_transport/detskie_velosipedy	Детские велосипеды	7323
+7328	/kids/children_transport/rolikovye_konki	Роликовые коньки	7323
+7329	/kids/dolls	Куклы и наборы для кукол	7282
+7330	/kids/dolls/nabory_dlja_kukol	Игровые наборы для кукол	7329
+7331	/kids/dolls/koljaski_dlja_kukol	Коляски для кукол	7329
+7333	/kids/dolls/odezhda_dlja_kukol	Одежда для кукол	7329
+7334	/kids/toys/mjagkie_igrushki	Мягкие игрушки	7282
+7335	/kids/toys/rezinovye_igrushki	Резиновые игрушки	7282
+7336	/kids/toys/igrushechnoe_oruzhie	Игрушечное оружие	7282
+7337	/kids/toys/detskie_muzykal_nye_instrumenty	Детские музыкальные инструменты	7282
+7338	/kids/toys/naduvnye_igrushki	Надувные игрушки	7282
+7339	/kids/toys/podvizhnye_igry	Подвижные игры	7282
+7340	/kids/toys/myl_nye_puzyri	Мыльные пузыри	7282
+7341	/kids/toys/zavodnye_igrushki	Заводные игрушки	7282
+7342	/kids/toys/nabory_dlja_pesochnicy	Наборы для песочницы	7282
+7343	/kids/school_goods	Товары для школы	7282
+7344	/kids/school_goods/shkolnye_rancy	Школьные ранцы, сумки и рюкзаки	7343
+7345	/kids/school_goods/shkolnye_penaly	Школьные пеналы	7343
+7346	/kids/school_goods/detskie_braslety_bezopasnosti	Детские браслеты безопасности	7343
+7347	/kids/educational_games	Развивающие игры	7282
+7348	/kids/educational_games/razvivajushhie_igrushki	Развивающие игрушки	7347
+7349	/kids/educational_games/nabory_kubikov	Наборы кубиков	7347
+7350	/kids/educational_games/opyty	Опыты и исследования	7347
+7351	/kids/hobbies	Хобби и настольные игры	7282
+7352	/kids/hobbies/nastolnye_igry	Настольные игры	7351
+7353	/kids/hobbies/nabory_dlja_tvorchestva	Наборы для творчества	7351
+7354	/kids/hobbies/sbornye_masshtabnye_modeli	Сборные масштабные модели	7351
+7355	/kids/toy_trucks	Игрушечный транспорт	7282
+7356	/kids/toy_trucks/zheleznye_dorogi	Железные дороги	7355
+7357	/kids/toy_trucks/dorojnye_soorujeniya	Дорожные сооружения	7355
+7358	/kids/toys_on_remote_control	Игрушки на дистанционном управлении	7282
+7360	/kids/toys_on_remote_control/provodnoe_upravlenie	Игрушки на проводном управлении	7358
+7361	/kids/pretend_play	Сюжетно-ролевые игры	7282
+7362	/kids/pretend_play/sjuzhetno_rolevye_igry	Наборы сюжетно-ролевых игр	7361
+7363	/kids/pretend_play/igrushechnaja_bytovaja_tekhnika	Игрушечная бытовая техника	7361
+7364	/kids/pretend_play/igrushechnaja_posuda	Игрушечная посуда	7361
+7365	/kids/pretend_play/igrushechnaja_eda	Игрушечная еда	7361
+7366	/kids/pretend_play/detskie_karnavalnye_kostyumy	Детские карнавальные костюмы	7361
+7368	/sanitary_engineering/faucets/dushevye_stojjki	Душевые стойки	5975
+7369	/sanitary_engineering/faucets/dushevye_lejjki	Душевые лейки	5975
+7370	/sanitary_engineering/faucets/dushevye_shlangi	Душевые шланги	5975
+7371	/sanitary_engineering/faucets/derzhateli_dlja_dusha	Держатели для душа	5975
+7372	/sanitary_engineering/faucets/lejjki_dlja_bide	Лейки для биде	5975
+7373	/sanitary_engineering/faucets/podvodka	Подводка для воды	5975
+7374	/sanitary_engineering/faucets/lejjki_dlja_smesitelejj	Лейки для смесителей	5975
+7375	/sanitary_engineering/baths	Ванны и фурнитура	5975
+7376	/sanitary_engineering/baths/ehkrany	Экраны для ванн	7375
+7377	/sanitary_engineering/baths/nozhki_dlja_vann	Ножки для ванн	7375
+7378	/sanitary_engineering/baths/dushevye_ograzhdenija_dlja_vann	Душевые ограждения для ванн	7375
+7379	/sanitary_engineering/baths/ruchki_dlja_vann	Ручки для ванн	7375
+7380	/sanitary_engineering/baths/podgolovniki_dlja_vann	Подголовники для ванн	7375
+7381	/sanitary_engineering/baths/krepej_dlya_montaja_vanny	Крепеж для монтажа ванны	7375
+7384	/sanitary_engineering/shower_enclosures/ehkrany_dlja_poddonov	Экраны для поддонов	5975
+7385	/sanitary_engineering/shower_enclosures/ograzhdenija_dlja_poddonov	Душевые ограждения для поддонов	5975
+7386	/sanitary_engineering/sinks_and_wash	Раковины и мойки	5975
+7388	/sanitary_engineering/sinks_and_wash/krepej_dlya_rakoviny	Крепеж для раковины	7386
+7389	/sanitary_engineering/sanfayans	Унитазы, писсуары, биде	5975
+7390	/sanitary_engineering/sanfayans/kryshki_sidenja_dlja_unitazov	Крышки-сиденья для унитазов	7389
+7391	/sanitary_engineering/sanfayans/bachki_dlja_unitazov	Бачки для унитазов	7389
+7392	/sanitary_engineering/sanfayans/krepej_dlya_sanfayansa	Крепеж для монтажа санфаянса	7389
+7393	/sanitary_engineering/sanfayans/kryshki_sidenja_dlja_bide	Крышки-сиденья для биде	7389
+7394	/sanitary_engineering/installation_systems/installjacii	Системы инсталляции	5975
+7395	/sanitary_engineering/installation_systems/knopki_dlja_installjacii	Клавиши для систем инсталляции	5975
+7396	/sanitary_engineering/installation_systems/krepej_dlya_sistem_installyacii	Крепеж для систем инсталляции	5975
+7397	/sanitary_engineering/towel_warmers	Полотенцесушители и держатели	5975
+7398	/sanitary_engineering/bathroom_accessories	Принадлежности для ванной комнаты	5975
+7399	/sanitary_engineering/bathroom_accessories/shtorki_dlja_vannojj	Шторки для ванной	7398
+7400	/sanitary_engineering/bathroom_accessories/korziny_dlja_belja	Корзины для белья	7398
+7401	/sanitary_engineering/bathroom_accessories/kovriki_dlja_vann	Коврики для ванной	7398
+7402	/sanitary_engineering/bathroom_accessories/derzhateli_dlja_tualetnojj_bumagi	Держатели для туалетной бумаги	7398
+7403	/sanitary_engineering/bathroom_accessories/ershiki_dlja_unitaza	Ершики для унитаза	7398
+7404	/sanitary_engineering/bathroom_accessories/dozatory_dlja_zhidkogo_myla	Дозаторы для жидкого мыла	7398
+7405	/sanitary_engineering/bathroom_accessories/stakany_dlya_vannoy	Стаканы для ванной комнаты	7398
+7406	/sanitary_engineering/bathroom_accessories/musornye_vedra	Мусорные ведра	7398
+7407	/sanitary_engineering/bathroom_accessories/karnizy_dlja_vannojj	Карнизы для ванной	7398
+7408	/sanitary_engineering/bathroom_accessories/sushilki_dlya_ruk	Сушилки для рук	7398
+7409	/sanitary_engineering/bathroom_accessories/zhidkoe_mylo	Жидкое мыло	7398
+7410	/sanitary_engineering/bathroom_accessories/dvoinie_derzhateli	Двойные держатели для ванных принадлежностей	7398
+7411	/sanitary_engineering/bathroom_accessories/derzhateli_dlja_fena	Держатели для фена	7398
+7412	/sanitary_engineering/bathroom_accessories/dispensery_dlja_salfetok	Диспенсеры для салфеток	7398
+7413	/sanitary_engineering/bathroom_accessories/feny_nastennye	Фены настенные	7398
+7414	/sanitary_engineering/water_supply/schetchik_vody	Счетчики воды	5975
+7415	/sanitary_engineering/plumbing_fitting	Установка сантехники	5975
+7416	/sanitary_engineering/plumbing_fitting/kupony_santehniki	Купоны на установку сантехники	7415
+7417	/garden_cottage	Сад, дача, огород	0
+7418	/garden_cottage/snow_removal	Уборка снега	7417
+7419	/garden_cottage/snow_removal/lopaty_dlya_snega	Лопаты для уборки снега	7418
+7420	/garden_cottage/lawn_care	Уход за газоном	7417
+7421	/garden_cottage/lawn_care/aksessuary_dlja_trimmerov	Аксессуары для триммеров	7420
+7422	/garden_cottage/watering_equipment	Поливочное оборудование	7417
+7423	/garden_cottage/watering_equipment/polivichnie_shlangi	Поливочные шланги	7422
+7424	/garden_cottage/watering_equipment/shlangi_ldya_skvajin	Шланги для скважин	7422
+7425	/garden_cottage/hand_garden_tools	Ручной садовый инструмент	7417
+7426	/garden_cottage/hand_garden_tools/tachki	Садовые тачки	7425
+7428	/garden_cottage/garden_blowers/elektricheskie_vozduhoduvki	Электрические воздуходувки	7417
+7429	/garden_cottage/garden_blowers/benzinovye_vozduhoduvki	Бензиновые воздуходувки	7417
+7430	/garden_cottage/greenhouses	Парники и теплицы	7417
+7431	/garden_cottage/pools/karkasnye_basseyny	Каркасные бассейны	7417
+7432	/garden_cottage/pools/naduvnye_basseyny	Надувные бассейны	7417
+7434	/garden_cottage/pools/himiya_dlya_basseynov	Химия для бассейнов	7417
+7435	/garden_cottage/pools/dozatory_dlya_basseynov	Дозаторы для бассейнов	7417
+7436	/garden_cottage/pools/kovry_dlya_basseynov	Ковры для бассейнов	7417
+7437	/garden_cottage/pools/lestnicy_dlya_basseynov	Лестницы для бассейнов	7417
+7438	/garden_cottage/pools/nabory_dlya_chistki_basseynov	Наборы для чистки бассейнов	7417
+7439	/garden_cottage/pools/schetki_dlya_chistki_basseynov	Щетки для чистки бассейнов	7417
+7440	/garden_cottage/pools/sachki_dlya_chistki_basseynov	Сачки для чистки бассейнов	7417
+7442	/garden_cottage/pools/chehly_dlya_basseynov	Чехлы для бассейнов	7417
+7444	/garden_cottage/furniture_for_garden	Мебель для дачи	7417
+7445	/garden_cottage/furniture_for_garden/tenty_i_shatry	Тенты и шатры	7444
+7447	/garden_cottage/furniture_for_garden/kacheli_sadovye	Качели садовые	7444
+7448	/garden_cottage/furniture_for_garden/stulya_dlya_dachi	Стулья для дачи	7444
+7449	/garden_cottage/furniture_for_garden/stoly_dlya_dachi	Столы для дачи	7444
+7450	/garden_cottage/furniture_for_garden/sadovye_divany_i_kresla	Садовые диваны и кресла	7444
+7451	/garden_cottage/furniture_for_garden/zonty_ot_solnca	Зонты от солнца	7444
+7452	/garden_cottage/cultivators	Мотоблоки и культиваторы	7417
+7453	/garden_cottage/cultivators/shneki_dlya_motoburov	Шнеки для мотобуров	7452
+7454	/garden_cottage/plumbing_for_garden	Сантехника для сада	7417
+7455	/garden_cottage/plumbing_for_garden/baki_dlya_vody	Пластиковые баки для воды	7454
+7456	/garden_cottage/plumbing_for_garden/dachnye_umyvalniki	Дачные умывальники	7454
+7457	/garden_cottage/plumbing_for_garden/nalivnie_nagrevateli	Наливные водонагреватели	7454
+7458	/garden_cottage/pumps/pogrujnye_nasosy	Погружные насосы	7417
+7459	/garden_cottage/pumps/poverhnostnye_nasosy	Поверхностные насосы	7417
+7460	/garden_cottage/pumps/nasosy_dlya_fontanov	Насосы для фонтанов	7417
+7461	/garden_cottage/bath/pechi_dlya_bani	Печи для бани	7417
+7462	/climat	Климатическое оборудование	0
+7463	/climat/heating/radiatory	Радиаторы отопления	7462
+7464	/climat/heating/teplovye_zavesy	Тепловые завесы	7462
+7465	/climat/heating/podklyuchenie_radiatorov	Комплекты для подключения радиаторов	7462
+7466	/sanitary_engineering/termoregulyatory_dlya_radiatorov	Терморегуляторы для радиаторов	5975
+7467	/climat/split_systems/vnutrennie_bloki_kondicionerov	Внутренние блоки кондиционеров	7462
+7468	/climat/split_systems/vneshnie_bloki_kondicionerov	Внешние блоки кондиционеров	7462
+7469	/climat/split_systems/mobilnye_kondicionery	Мобильные кондиционеры	7462
+7470	/climat/split_systems/okonnye_kondicionery	Оконные кондиционеры	7462
+7471	/climat/split_systems/dekorativnye_paneli_dlja_split_sistem	Декоративные панели для сплит-систем	7462
+7472	/climat/split_systems/kronshtejny_dlja_kondicionerov	Кронштейны для кондиционеров	7462
+7473	/climat/air_purifiers	Увлажнители и очистители воздуха	7462
+7474	/climat/air_purifiers/uvlajniteli_vozduha	Увлажнители воздуха	7473
+7475	/climat/air_purifiers/ochistiteli_vozduha	Очистители воздуха	7473
+7476	/climat/air_purifiers/ochistitel_uvlajniteli_vozduha	Очиститель-увлажнители воздуха	7473
+7477	/climat/air_purifiers/osushiteli_vozduha	Осушители воздуха	7473
+7478	/climat/air_purifiers/aksessuary_dlya_uvlajniteley	Аксессуары для увлажнителей воздуха	7473
+7480	/climat/warm_floor/terplye_poly	Теплые полы	7462
+7481	/climat/warm_floor/infrakrasnyy_teplyy_pol	Инфракрасный теплый пол	7462
+7482	/climat/warm_floor/termokabel_dlya_pola	Термокабель для пола	7462
+7483	/climat/warm_floor/termokabel_dlya_obogreva_trub	Термокабель для обогрева труб	7462
+7484	/climat/boilers	Котлы и водонагреватели	7462
+7485	/climat/boilers/rasshiritelnye_baki	Расширительные баки	7484
+7486	/climat/chimneys/otvodi_dlya_dymohoda	Отводы для дымохода	7462
+7487	/climat/measuring_climate	Приборы для измерения климата	7462
+7488	/computers/laptops	Ноутбуки и аксессуары	6007
+7489	/computers/laptops/sumki_dlya_noutbukov	Сумки для ноутбуков	7488
+7490	/computers/laptops/okhlazhdajushhie_podstavki_dlja_noutbukov	Охлаждающие подставки для ноутбуков	7488
+7491	/computers/laptops/adaptery_pitaniya_dlya_noutbukov	Адаптеры питания для ноутбуков	7488
+7492	/computers/notebooks/ukhod_za_komp_juternojj_tekhnikojj	Товары по уходу за компьютерной техникой	6007
+7493	/computers/laptops/akumulatori_dlya_notebookov	Аккумуляторы для ноутбуков	7488
+7494	/computers/tablet_computers	Планшетные компьютеры и аксессуары	6007
+7495	/computers/tablet_computers/planshetnye_kompyutery	Планшетные компьютеры	7494
+7496	/computers/tablet_computers/chekhly_dlja_planshetnykh_kompjuterov	Чехлы для планшетных компьютеров	7494
+7497	/computers/tablet_computers/plenki_dlja_planshetnykh_kompjuterov	Защитные пленки для планшетных компьютеров	7494
+7498	/computers/tablet_computers/zarjadnye_ustrojjstva_dlja_planshetnykov	Зарядные устройства для планшетных компьютеров	7494
+7499	/computers/tablet_computers/dok_stancii_dlja_planshetnykh_kompjuterov	Док-станции для планшетных компьютеров	7494
+7500	/computers/pc	Персональные компьютеры	6007
+7501	/computers/pc/kronshteyny_dlya_monitorov	Кронштейны для мониторов	7500
+7502	/computers/pc/podstavki_dlja_monitorov	Подставки для мониторов	7500
+7503	/computers/el_books_readers	Электронные книги и чехлы	6007
+7504	/computers/el_books_readers/elektronnye_knigi	Электронные книги	7503
+7505	/computers/el_books_readers/chekhly_dlja_ehlektronnykh_knig	Чехлы для электронных книг	7503
+7506	/computers/office_equipment_and_supplies	Оргтехника и расходные материалы	6007
+7507	/computers/office_equipment_and_supplies/kartridzhi_dlja_printerov	Картриджи для принтеров и МФУ	7506
+7508	/computers/office_equipment_and_supplies/fotobumaga	Фотобумага для принтеров	7676
+7509	/computers/office_equipment_and_supplies/printery_ehtiketok	Принтеры для этикеток и чеков	7506
+7510	/computers/office_equipment_and_supplies/toner_dlya_kartridja	Тонер для картриджа	7506
+7511	/computers/accessories	Комплектующие для компьютеров	6007
+7512	/computers/accessories/operativnaja_pamjat	Оперативная память	7511
+7514	/computers/accessories/jestkie_diski	Жесткие диски	7511
+7515	/computers/accessories/kulery_i_sistemy_okhlazhdenija	Кулеры и системы охлаждения	7511
+7516	/computers/accessories/bloki_pitanija	Блоки питания	7511
+7518	/computers/accessories/opticheskie_privody	Оптические приводы	7511
+7520	/computers/power_protection_devices	Устройства защиты электропитания	6007
+7521	/computers/power_protection_devices/setevye_filtry	Сетевые фильтры	7520
+7522	/computers/power_protection_devices/stabilizatory_napryajeniya	Стабилизаторы напряжения	7520
+7523	/computers/power_protection_devices/istochniki_bespereboynogo_pitaniya	Источники бесперебойного питания	7520
+7525	/computers/multimedia/kompyuternye_garnitury	Компьютерные гарнитуры	6007
+7526	/computers/multimedia/kompyuternye_mikrofony	Компьютерные микрофоны	6007
+7527	/computers/input_devices	Устройства ввода	6007
+7528	/computers/input_devices/graphicheskie_planshety	Графические планшеты	7527
+7529	/computers/input_devices/kovriki_dlja_myshi	Коврики для мыши	7527
+7530	/computers/recording_media	Носители информации	6007
+7531	/computers/recording_media/vneshnie_jestkie_diski	Внешние жесткие диски	7530
+7532	/computers/recording_media/karty_pamyati	Карты памяти	7530
+7533	/computers/network_equipment	Сетевое оборудование	6007
+7534	/computers/network_equipment/wifi	Wi-Fi оборудование	7533
+7535	/computers/network_equipment/setevye_karty	Сетевые карты	7533
+7536	/computers/software_is	Программное обеспечение	6007
+7537	/computers/software_is/operacionnye_sistemy	Операционые системы	7536
+7538	/computers/software_is/ofisnye_programmy	Офисные программы	7536
+7539	/computers/servers	Серверное оборудование	6007
+7540	/tools/drills	Дрели, шуруповерты, гайковерты	6017
+7541	/tools/drills/sverla	Сверла и наборы сверл	7540
+7542	/tools/drills/koronki	Коронки для дрелей и перфораторов	7540
+7543	/tools/drills/akkumuljatory_dlja_shurupovertov	Аккумуляторы для шуруповертов	7540
+7544	/tools/drills/zaryadnye_ustroystva	Зарядные устройства для электроинструмента	7540
+7545	/tools/hammers	Ударный инструмент	6017
+7546	/tools/hammers/buri	Буры и наборы буров	7545
+7547	/tools/hammers/pick_hammers	Отбойные молотки	7545
+7548	/tools/hammers/borozdodely	Бороздоделы (штроборезы)	7545
+7549	/tools/hammers/dolota	Долота для перфораторов и отбойных молотков	7545
+7550	/tools/thermo_and_thermal_guns	Термопистолеты и тепловые пушки	6017
+7551	/tools/thermo_and_thermal_guns/teplovye_pushki	Тепловые пушки	7550
+7552	/tools/thermo_and_thermal_guns/tehnicheskie_feny	Технические фены	7550
+7553	/tools/thermo_and_thermal_guns/kleevye_pistolety	Клеевые пистолеты	7550
+7554	/tools/chain_saws_and_shears	Режущий электроинструмент	6017
+7555	/tools/chain_saws_and_shears/diski_dlya_pil	Диски для пил	7554
+7556	/tools/chain_saws_and_shears/sabelnye_pily	Сабельные пилы	7554
+7557	/tools/chain_saws_and_shears/nojnicy_po_metallu	Ножницы по металлу	7554
+7558	/tools/chain_saws_and_shears/cepi_dlya_pil	Цепи для пил	7554
+7561	/tools/grinding_equipment	Шлифовальное оборудование	6017
+7562	/tools/grinding_equipment/shlifovalnye_mashiny	Шлифовальные машины	7561
+7563	/tools/grinding_equipment/aksessuary_dlya_krugloshlifovalnyh_mashin	Аксессуары для круглошлифовальных машин	7561
+7564	/tools/grinding_equipment/lenty_dlya_shlifovalnyh_mashin	Ленты для шлифовальных машин	7561
+7565	/tools/jigsaw_and_planers	Электролобзики и рубанки	6017
+7567	/tools/jigsaw_and_planers/noji_dlya_rubankov	Ножи для электрорубанков	7565
+7569	/tools/machine_tools/frezernye_stanki	Фрезерные станки	6017
+7570	/tools/machine_tools/frezy_dlya_frezernyh_stankov	Фрезы для фрезерных станков	6017
+7571	/tools/pneumotool/shlangi_dlya_kompressora	Шланги для компрессоров	6017
+7572	/tools/fixtures_and_equipment	Приспособления и оснастка	6017
+7573	/tools/fixtures_and_equipment/yaschiki_dlya_instrumentov	Ящики для инструментов	7572
+7575	/tools/fixtures_and_equipment/stroitelnye_udliniteli	Строительные удлинители	7572
+7576	/tools/fixtures_and_equipment/kleykie_lenty	Клейкие ленты	7572
+7577	/tools/personal_protective_equipment	Средства индивидуальной защиты	6017
+7578	/tools/personal_protective_equipment/rukavicy_i_perchatki	Рукавицы и перчатки	7577
+7579	/tools/personal_protective_equipment/ochki_zashhitnye	Очки защитные	7577
+7580	/tools/personal_protective_equipment/zashhitnye_maski	Защитные маски	7577
+7581	/tools/personal_protective_equipment/stroitelnye_naushniki	Строительные наушники	7577
+7582	/tools/hand_tools	Ручной инструмент	6017
+7583	/tools/hand_tools/nabory_instrumentov	Наборы инструментов	7582
+7584	/tools/hand_tools/ruchnie_pily_i_lobziki	Ручные пилы и лобзики	7582
+7585	/tools/hand_tools/passatiji_i_kusachki	Пассатижи и кусачки	7582
+7586	/tools/hand_tools/gaechnye_klyuchi	Гаечные ключи	7582
+7587	/tools/hand_tools/treschotki_vorotki	Трещотки и воротки	7582
+7588	/tools/hand_tools/dinamometricheskie_klyuchi	Динамометрические ключи	7582
+7589	/tools/hand_tools/malyarnye_kisti	Малярные кисти	7582
+7590	/tools/measuring_tools	Измерительный инструмент	6017
+7591	/tools/measuring_tools/urovni	Уровни и угломеры	7590
+7592	/tools/building_facilities	Уборка строительного помещения	6017
+7593	/tools/building_facilities/promyshlennye_pylesosy	Промышленные пылесосы	7592
+7594	/tools/power_equipment	Силовое оборудование	6017
+7595	/tools/power_equipment/svarochnye_apparaty	Сварочные аппараты	7594
+7596	/tools/power_equipment/maski_svarochnye	Маски сварочные	7594
+7597	/phones/cell_phones	Сотовые телефоны	6031
+7598	/phones/cell_phones/mobilnye_telefony	Мобильные телефоны	7597
+7600	/phones/cell_phones/plenki_dlja_telefonov	Плёнки для телефонов	7597
+7601	/phones/cell_phones/ukrashenija_dlja_sotovykh_telefonov	Украшения для сотовых телефонов	7597
+7602	/phones/cell_phones/adaptery_dlya_sim_kart	Адаптеры для SIM-карт	7597
+7603	/phones/cell_phones/zaschitnye_stekla_dlya_sotovyh_telefonov	Защитные стекла для сотовых телефонов	7597
+7604	/phones/telephones_for_home_and_office	Телефоны для дома и офиса	6031
+7605	/phones/telephones_for_home_and_office/provodnie_telefony	Проводные телефоны	7604
+7606	/phones/chargers_and_batteries_for_phones	Зарядные устройства и аккумуляторы для телефонов	6031
+7607	/phones/chargers_and_batteries_for_phones/portativnye_zarjadnye_ustrojjstva	Портативные зарядные устройства для сотовых телефонов	7606
+7608	/phones/chargers_and_batteries_for_phones/akkumuljatory	Аккумуляторы для сотовых телефонов	7606
+7609	/phones/chargers_and_batteries_for_phones/zarjadnye_ustrojjstva	Зарядные устройства для сотовых телефонов	7606
+7610	/phones/chargers_and_batteries_for_phones/avtomobilnye_zarjadnye_ustrojjstva	Автомобильные зарядные устройства для телефонов	7606
+7611	/phones/headset_mobile_phones	Гарнитуры для сотовых телефонов	6031
+7612	/phones/headset_mobile_phones/blutus_garnitury	Bluetooth-гарнитуры	7611
+7613	/phones/headset_mobile_phones/provodniye_garnitury	Проводные гарнитуры	7611
+7614	/tourism	Товары для туризма	0
+7615	/tourism/inflatable_furniture	Надувная мебель	7614
+7617	/tourism/inflatable_furniture/kresla_naduvnye	Кресла надувные	7615
+7618	/tourism/inflatable_furniture/matrasy_naduvnye_detskie	Матрасы надувные детские	7615
+7619	/tourism/inflatable_furniture/podushki_naduvnye	Надувные подушки	7615
+7620	/tourism/boats_and_motors	Лодки и моторы	7614
+7621	/tourism/boats_and_motors/naduvnye_lodki	Надувные лодки	7620
+7622	/tourism/boats_and_motors/lodochnye_motory	Лодочные моторы	7620
+7624	/tourism/boats_and_motors/aksessuary_dlya_lodok	Аксессуары для лодок	7620
+7625	/tourism/optical_devices	Оптические приборы	7614
+7626	/tourism/backpacks_and_bags	Рюкзаки и сумки	7614
+7628	/tourism/backpacks_and_bags/dorojnie_sumki	Дорожные сумки	7626
+7629	/tourism/travel_gear	Туристическое снаряжение	7614
+7631	/tourism/travel_gear/noji_turisticheskie	Ножи туристические	7629
+7633	/tourism/utensils_for_tourism/pohodnye_chayniki	Походные чайники	7614
+7634	/tourism/utensils_for_tourism/miski	Туристические миски	7614
+7635	/tourism/utensils_for_tourism/turisticheskie_krujki	Туристические кружки	7614
+7636	/tourism/utensils_for_tourism/nabory_posudy_dlya_turizma	Наборы посуды для туризма	7614
+7637	/tourism/picnic_sets_and_furniture_for_camping	Наборы для пикника и мебель для кемпинга	7614
+7638	/tourism/picnic_sets_and_furniture_for_camping/mebel_dlya_kempinga	Мебель для кемпинга	7637
+7639	/tourism/picnic_sets_and_furniture_for_camping/nabory_dlja_piknika	Наборы для пикника	7637
+7640	/tourism/grills_barbecue	Гриль и барбекю	7614
+7641	/tourism/grills_barbecue/prinadlezhnosti_dlja_grilja	Принадлежности для гриля	7640
+7642	/tourism/pumps_for_inflatable_products	Насосы для матрасов, бассейнов и лодок	7614
+7643	/tourism/pumps_for_inflatable_products/mehanicheskie_nasosy	Механические насосы	7642
+7644	/tourism/pumps_for_inflatable_products/elektricheskie_nasosy	Электрические насосы	7642
+7645	/furniture/bathroom	Мебель для ванной комнаты	6055
+7647	/furniture/bathroom/penaly_dlja_vannojj	Пеналы для ванн	7645
+7648	/furniture/bathroom/zerkala_dlja_vanny	Зеркала для ванных комнат	7645
+7649	/furniture/bathroom/polki_dlja_vanny	Полки для ванной комнаты	7645
+7650	/furniture/bathroom/komody_dlja_vann	Комоды для ванн	7645
+7651	/furniture/bathroom/podvesnye_shkafy_dlya_vann	Подвесные шкафы для ванн	7645
+7652	/furniture/hallway/veshalki	Вешалки и галошницы	6055
+7654	/furniture/bedroom/osnovaniya_dlya_krovatey	Основания для кроватей	6055
+7655	/furniture/living_room/stellaji_dlya_gostinoy	Стеллажи для гостиной	6055
+7658	/furniture/living_room/shkafy_dlya_gostinoy	Шкафы для гостиной	6055
+7659	/furniture/kitchen/stoly_obedennye	Столы обеденные	6055
+7660	/furniture/kitchen/obedennye_gruppy	Обеденные группы	6055
+7661	/furniture/kitchen/tumby_dlya_kuhni	Тумбы для кухни	6055
+7663	/furniture/office	Мебель для офиса	6055
+7664	/furniture/office/kompyuternye_stulja	Компьютерные стулья	7663
+7665	/furniture/office/stoly_kompyuternye	Столы компьютерные	7663
+7666	/furniture/office/stoly_ofisnye	Столы офисные	7663
+7667	/furniture/office/tumby_dlya_ofisa	Тумбы для офиса	7663
+7668	/furniture/office/stellaji_dlya_ofisa	Стеллажи для офиса	7663
+7669	/furniture/office/shkafy_dlya_ofisa	Шкафы для офиса	7663
+7670	/furniture/kids_room/detskie_krovati	Детские кровати	7282
+7671	/furniture/kids_room/party_stoly	Парты и письменные столы	7282
+7672	/furniture/kids_room/shkafy_dlya_detskoy	Шкафы для детской	7282
+7674	/furniture/kids_room/tumby_dlya_detskoy	Тумбы для детской	7282
+7675	/furniture/kids_room/komody_dlya_detskoy	Комоды для детской	7282
+7676	/foto	Фото товары	0
+7677	/foto/photo_technics/zarjadnye_ustrojjstva	Зарядные устройства для фотокамер	7676
+7679	/foto/photo_technics/batareynye_rukoyatki	Батарейные рукоятки	7676
+7680	/foto/photo_technics/pulty_upravleniya	Пульты управления	7676
